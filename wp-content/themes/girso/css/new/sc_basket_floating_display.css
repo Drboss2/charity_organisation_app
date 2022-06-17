@@ -1,0 +1,480 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* FLOATING BASKET */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+body {
+	background-size: cover;
+}
+
+.sc_basket_floating_panel_wrapper {
+	padding: 0px 15px 0px 15px;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -webkit-flex;     /* NEW - Chrome */
+	display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+	-webkit-box-flex-direction: row;
+	-moz-box-flex-direction: row;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: calc(100% - 30px);
+	height: 100%;
+	text-align: center;
+	z-index: 10000;
+	background-color: rgba(0,0,0,.7);
+	visibility: hidden;
+	-webkit-overflow-scrolling: touch;
+}
+
+.sc_basket_floating_panel_wrapper_standalone_example {
+	visibility: visible;
+}
+
+.sc_basket_floating_panel {
+	margin: auto;
+	padding: 0px;
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	max-width: 500px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 20px rgba(0,0,0,.5);
+	z-index: 10000;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* HEADER */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_header {
+	margin: 0px 0px 0px 0px;
+	padding: 12px;
+	position: relative;
+	background-color: #ffcc00;
+	box-shadow: 0px -1px 5px rgba(0,0,0,.5);
+}
+
+.sc_basket_header_box_txt {
+	margin: 0px 0px 0px 0px;
+	padding: 1px 0px 0px 0px;
+	position: relative;
+	float: left;
+	height: 21px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+	width: calc(100% - 64px);
+	letter-spacing: -0.2px;
+}
+
+.sc_basket_header_box_close {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	position: relative;
+	float: right;
+	height: 22px;
+	width: 22px;
+}
+
+.sc_basket_header_img_close {
+	cursor:pointer;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	height: 22px;
+	width: 22px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* FOOTER */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_footer {
+	margin: 0px 0px 0px 0px;
+	padding: 12px;
+	position: relative;
+	background-color: #ffcc00;
+	box-shadow: 0px 1px 8px rgba(0,0,0,.5);
+}
+
+.sc_basket_footer_button_row {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	position: relative;
+	float: left;
+	width: calc(100% - 0px);
+}
+
+.sc_basket_footer_button_box_left {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	text-align: left;
+	height: 34px;
+}
+
+.sc_basket_footer_button_box_right {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float: right;
+	text-align: right;
+	height: 34px;
+}
+
+.sc_basket_footer_button_left {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 12px 7px 12px;
+	text-align: center;
+	background-color: #ffffff;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #333333;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #333333;
+}
+
+.sc_basket_footer_button_left:hover {
+	color: #ffffff;
+	background-color: #333333;
+}
+
+.sc_basket_footer_button_left:active {
+	position: relative;
+	top: 1px;
+	border: 1px solid #333333;
+}
+
+.sc_basket_footer_button_right {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 12px 7px 12px;
+	text-align: center;
+	background-color: #cc0000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #cc0000;
+}
+
+.sc_basket_footer_button_right:hover {
+	color: #ffffff;
+	background-color: #333333;
+	border: 1px solid #333333;
+}
+
+.sc_basket_footer_button_right:active {
+	position: relative;
+	top: 1px;
+}
+ @media only screen and (min-width :1px) and (max-width :601px) {
+
+.sc_basket_footer_button_box_left {
+	width: 100%;
+}
+
+.sc_basket_footer_button_box_right {
+	margin: 12px 0px 0px 0px;
+	width: 100%;
+}
+
+.sc_basket_footer_button_left {
+	width: calc(100% - 26px);
+}
+
+.sc_basket_footer_button_right {
+	width: calc(100% - 26px);
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* BASKET CONTENTS DISPLAY */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_contents_wrapper {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	text-align: left;
+	width: 100%;
+	background-color: #ffffff;
+	max-height: 300px;
+	overflow: auto;
+}
+
+.sc_basket_item_row {
+	margin: 0px 0px 0px 0px;
+	padding: 8px 12px 8px 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	float: left;
+	text-align: left;
+	width: calc(100% - 24px);
+	border-bottom: 1px solid #dddddd;
+}
+
+.sc_basket_item_row:nth-child(odd) {
+	background-color: #f5f5f5;
+}
+
+.sc_basket_item_row:nth-child(even) {
+	background-color: #fcfcfc;
+}
+
+.sc_basket_total_row {
+	margin: 0px 0px 0px 0px;
+	padding: 8px 12px 8px 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	float: left;
+	text-align: left;
+	width: calc(100% - 24px);
+	background-color: #f0f0f0;
+	display: none;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ROW COLUMNS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_item_row_col_1 {
+	margin: 0px 12px 0px 0px;
+	padding: 0px 0% 0px 0px;
+	width: 50px;
+	height: 33px;
+	float: left;
+	text-align: left;
+	font-size: 0;
+}
+
+.sc_basket_item_row_col_2 {
+	margin: 0px 12px 0px 0px;
+	padding: 0px 0% 0px 0px;
+	width: calc(100% - 164px);
+	float: left;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+}
+
+.sc_basket_item_no_image_flag {
+	width: calc(100% - 102px);
+}
+
+.sc_basket_item_row_col_3 {
+	margin: 0px 12px 0px 0px;
+	padding: 0px 0% 0px 0px;
+	width: 60px;
+	float: left;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	text-align: right;
+}
+
+.sc_basket_item_row_col_4 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 18px;
+	height: 18px;
+	float: left;
+	font-size: 0;
+}
+
+.sc_basket_total_row_col_1 {
+	margin: 0px 10px 0px 0px;
+	padding: 0px 0% 0px 0px;
+	width: calc(100% - 100px);
+	float: left;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	text-align: right;
+}
+
+.sc_basket_total_row_col_2 {
+	margin: 0px 30px 0px 0px;
+	padding: 0px 0% 0px 0px;
+	width: 60px;
+	float: left;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	text-align: right;
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.sc_basket_item_row_col_2 {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.sc_basket_item_row_col_3 {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.sc_basket_total_row_col_1 {
+	margin: 0px 6px 0px 0px;
+	width: calc(100% - 96px);
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.sc_basket_total_row_col_2 {
+	font-size: 14px;
+	line-height: 18px;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ITEM IMAGE/ICON */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_item_img_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	float: left;
+	max-height: 33px;
+	text-align: center;
+}
+
+.sc_basket_img_outer_outer {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	font-size: 0;
+	float: left;
+}
+
+.basket_item_img_outer {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	height: auto;
+	width: auto;
+	font-size: 0;
+}
+
+.sc_basket_item_img {
+	min-height:30px;
+	text-align: center;
+	max-width: 100%;
+	height: auto;
+	width: auto;
+	max-height: 33px;
+	font-size: 0;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ITEM TRASH ICON */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.sc_basket_item_img_trash {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	height: 18px;
+	width: 18px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ITEM TRASH ICON */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.sc_basket_item_name {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 13px;
+	line-height: 17px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+}
+ @media only screen and (min-width :1px) and (max-width :960px) {
+
+.sc_basket_txt_title {
+	margin: 0px 0px 8px 0px;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.sc_basket_txt_format {
+	margin: 0px 0px 0px 0px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.sc_basket_txt_code {
+	margin: 0px 0px 0px 0px;
+	font-size: 13px;
+	line-height: 18px;
+}
+}

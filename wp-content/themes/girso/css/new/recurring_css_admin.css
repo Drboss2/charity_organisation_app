@@ -1,0 +1,9 @@
+.admin_payment_popup{display:none}
+.admin_payment_popup section h2 {background-color: #f9f9fa;font-size: 14px;padding: 10px;margin: 20px -10px 10px -10px;}
+.admin_payment_popup .receipt {border-spacing: 0;width: calc(100% + 18px);border: 1px solid #ddd;margin: 0 -9px;}
+.admin_payment_popup .receipt thead th {border-bottom: 1px solid #ddd;}
+.admin_payment_popup table.receipt th, .admin_payment_popup table.receipt td {border-right: 1px solid #ddd;padding: 4px 9px;}
+
+.ticket_popup_cls{display:none}
+.ticket_popup_cls section h2 {background-color: #f9f9fa;font-size: 14px;padding: 10px;margin: 20px 10px 10px 10px;}
+.ticket_popup_cls .recurring_box_cntr{width:100%; max-width:800px;}

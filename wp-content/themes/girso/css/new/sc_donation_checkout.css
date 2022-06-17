@@ -1,0 +1,465 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* GRID FOR BASKET PAGE */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.basket_wrapper {
+	margin: 40px auto 0px auto;
+	padding: 0px 0% 0px 0%;
+	width: 100%;
+	max-width: 1200px;
+	text-align: center;
+}
+
+.basket_grid_wrapper {
+	margin: 0px 6% 0px 6%;
+	padding: 0px 0% 0px 0%;
+	float: left;
+	text-align: center;
+	width: 88%;
+	border-bottom: 1px solid #cccccc;
+}
+
+.basket_grid_wrapper_total {
+	margin: 0px 6% 0px 6%;
+	padding: 0px 0% 0px 0%;
+	float: left;
+	text-align: left;
+	width: 88%;
+	border-top: 1px solid #cccccc;
+	background-color: #ffffff;
+}
+
+.basket_grid_line {
+	margin: 0px 0% 0px 0%;
+	padding: 12px 0px 10px 0px;
+	float: left;
+	text-align: left;
+	width: 100%;
+	border-top: 1px solid #cccccc;
+}
+
+.basket_grid_line_subtotal {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	text-align: right;
+	width: 100%;
+	border-top: 0px solid #cccccc;
+}
+
+.basket_grid_line_heading {
+	padding: 0px 0px 12px 0px;
+	border-top: 0px solid #d0d0d0;
+}
+
+.basket_item {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 1% 0px 1%;
+	float: left;
+	text-align: left;
+	width: 12.5%;
+}
+
+.basket_col_prod {
+	width: 8%;
+	text-align: center;
+}
+
+.basket_col_desc {
+	width: 28%;
+	text-align: left;
+}
+
+.basket_col_avail {
+	width: 10%;
+	text-align: center;
+}
+
+.basket_col_prodprice {
+	width: 10%;
+	text-align: center;
+}
+
+.basket_col_avail_project
+{
+	width: 10%;
+	text-align: center;
+}
+.basket_col_qty {
+	width: 17%;
+	text-align: center;
+	max-width: 200px;
+}
+
+.basket_col_prodtotal {
+	width: 10%;
+	text-align: right;
+}
+
+.basket_subtotal {
+	margin: 0px 0% 0px 0%;
+	padding: 10px 1% 10px 1%;
+	float: right;
+	text-align: left;
+	width: 12.5%;
+	border-bottom: 1px solid #cccccc;
+}
+
+.basket_col_subtotal_l {
+	background-color: rgba(255,204,000,.05);
+	width: 15%;
+	text-align: right;
+}
+
+.basket_col_subtotal_r {
+	background-color: rgba(255,204,000,.05);
+	width: 13%;
+	text-align: right;
+	clear: right;
+}
+
+.basket_ordertotal {
+	margin: 0px 0% 0px 0%;
+	padding: 10px 1% 10px 1%;
+	float: right;
+	text-align: left;
+	width: 12.5%;
+}
+
+.basket_col_ordertotal_l {
+	background-color: rgba(255,204,000,.3);
+	width: 15%;
+	text-align: right;
+}
+
+.basket_col_ordertotal_r {
+	background-color: rgba(255,204,000,.3);
+	width: 13%;
+	text-align: right;
+	clear: right;
+}
+ @media only screen and (min-width :1px) and (max-width :960px) {
+
+.basket_grid_wrapper {
+	margin: 0px auto 0px auto;
+	width: 88%;
+	max-width: 500px;
+	float: none;
+}
+
+.basket_grid_wrapper_total {
+	margin: 0px auto 0px auto;
+	max-width: 500px;
+	float: none;
+}
+
+.basket_grid_line {
+	padding: 20px 0px 18px 0px;
+}
+
+.basket_item {
+	padding: 0px 0% 0px 0%;
+}
+
+.basket_col_desc {
+	float: left;
+	width: 100%;
+	max-width: 500px;
+	text-align: center;
+}
+
+.basket_col_avail {
+	float: left;
+	width: 100%;
+	text-align: center;
+	max-width: 500px;
+}
+
+.basket_col_prodprice {
+	margin: 15px 0px 0px 0px;
+	padding: 8px 0px 10px 0px;
+	
+	width: 20%;
+	text-align: center;
+	border-right: 1px dotted #d0d0d0;
+	max-width: 150px;
+}
+
+.basket_col_avail_project {
+	margin: 15px 0px 0px 0px;
+	padding: 8px 0px 10px 0px;
+	clear: both;
+	width: 20%;
+	text-align: center;
+	border-right: 1px dotted #d0d0d0;
+	max-width: 150px;
+}
+
+.basket_col_qty {
+	margin: 15px 0px 0px 0px;
+	padding: 14px 0px 10px 0px;
+	width: calc(39% - 2px);
+	text-align: center;
+	max-width: 210px;
+}
+
+.basket_col_prodtotal {
+	margin: 15px 0px 0px 0px;
+	padding: 8px 0px 10px 0px;
+	border-left: 1px dotted #d0d0d0;
+	width: 20%;
+	text-align: center;
+	max-width: 150px;
+}
+
+.basket_col_subtotal_l {
+	background-color: rgba(255,204,000,.05);
+	width: 60%;
+	text-align: right;
+}
+
+.basket_col_subtotal_r {
+	background-color: rgba(255,204,000,.05);
+	width: 36%;
+	text-align: right;
+	clear: right;
+}
+
+.basket_col_ordertotal_l {
+	background-color: rgba(255,204,000,.3);
+	width: 60%;
+	text-align: right;
+}
+
+.basket_col_ordertotal_r {
+	background-color: rgba(255,204,000,.3);
+	width: 36%;
+	text-align: right;
+	clear: right;
+}
+}
+
+.basket_disp_screen {
+	display: inline;
+}
+
+.basket_disp_mobile {
+	display: none;
+}
+
+.basket_grid_h1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 13px;
+	line-height: 18px;
+	color: #999999;
+	text-decoration: none;
+}
+
+.basket_txt {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+}
+
+.basket_txt_title {
+	margin: 5px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	color: #cc0000;
+}
+
+.basket_txt_avail {
+	margin: 5px 0px 0px 0px;
+}
+
+.basket_txt_prodprice {
+	margin: 5px 0px 0px 0px;
+}
+
+.basket_txt_prodtotal {
+	margin: 5px 0px 0px 0px;
+}
+
+.basket_txt_subtotal_l {
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	margin: 0px 0px 0px 0px;
+}
+
+.basket_txt_subtotal_r {
+	margin: 0px 22% 0px 4px;
+}
+
+.basket_txt_ordertotal_l {
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	margin: 0px 0px 0px 0px;
+}
+
+.basket_txt_ordertotal_r {
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	margin: 0px 22% 0px 4px;
+}
+ @media only screen and (min-width :1px) and (max-width :960px) {
+
+.basket_txt_title {
+	margin: 0px 0px 3px 0px;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.basket_txt_format {
+	margin: 0px 0px 0px 0px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.basket_txt_code {
+	margin: 0px 0px 0px 0px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.basket_txt_avail {
+	margin: 0px 0px 0px 0px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.basket_txt_prodprice {
+	margin: 0px 0px 0px 0px;
+}
+
+.basket_txt_prodtotal {
+	margin: 0px 0px 0px 0px;
+}
+
+.basket_txt_price_heading {
+	margin: 0px 0px 3px 0px;
+	font-size: 13px;
+	line-height: 16px;
+	color: #999999;
+}
+}
+
+.basket_txt_col_green {
+font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	color: #00aa00;
+}
+
+.basket_txt_col_red {
+font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	color: #bb0000;
+}
+
+.basket_txt_col_grey {
+font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	color: #888888;
+}
+
+.basket_align_r {
+	text-align: right;
+}
+
+.basket_align_l {
+	text-align: left;
+}
+
+.basket_align_c {
+	text-align: center;
+}
+ @media only screen and (min-width :1px) and (max-width :960px) {
+
+.basket_disp_screen {
+	display: none;
+}
+
+.basket_disp_mobile {
+	display: inline-block;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* PULL DOWN MENU */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+.qty_pull_down_wrapper {
+	margin: 0px auto 0px auto;
+	padding: 0px 0px 0px 0px;
+	width: 90px;
+	height: 33px;
+}
+
+.qty_pull_down {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	box-shadow: inset -1px -1px 2px #cccccc;
+	border-radius: 0px;
+	border: 1px solid #999999;
+	background-color: #f7f7f7;
+	width: 55px;
+	color: #333333;
+	height: 30px;
+	float: left;
+	text-align: center;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* TRASH BUTTON */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+.qty_trash_button {
+	text-align: left;
+	margin: 2px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: inline-block;
+	text-decoration: none;
+	width: 24px;
+	height: 24px;
+	float: right;
+	background-image: url(icon_trash.png);
+	background-position: 0px center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.qty_trash_button:hover {
+	background-image: url(icon_trash_hover.png);
+}

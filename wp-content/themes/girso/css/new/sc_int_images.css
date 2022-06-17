@@ -1,0 +1,526 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* COL/GRADIENT BACKGROUNDS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.bg_darken {
+	background-color: rgba(0,0,0,.20);
+}
+
+.bg_yellow {
+	background-color: #ffcc00;
+}
+
+.bg_grey {
+	background-color: #aaaaaa;
+}
+ @media only screen and (min-width :961px) {
+
+.bg_gradient {
+	background-image: linear-gradient(to top, rgba(0,0,0,0) 0, rgba(0,0,0,1) 100%);
+	height: 200px;
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.bg_gradient {
+	background-image: linear-gradient(to top, rgba(0,0,0,0) 0, rgba(0,0,0,1) 100%);
+	height: 150px;
+}
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* HEADER BANNERS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.bg_about_01 {
+	background: url('../../../../../salamcharity/init_imgs/about_01.jpg');
+	background-repeat: no-repeat;
+	background-position: 20% top;
+	background-size: cover;
+}
+
+.bg_about_02 {
+	background: url('../../../../../salamcharity/init_imgs/about_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_about_03 {
+	background: url('/salamcharity/init_imgs/about_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_about_04 {
+	background: url('/salamcharity/init_imgs/about_04.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_appeals_01 {
+	background: url('../../../../../salamcharity/init_imgs/appeals_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_appeals_02 {
+	background: url('../../../../../salamcharity/init_imgs/appeals_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_appeals_03 {
+	background: url('../../../../../salamcharity/init_imgs/appeals_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_appeals_04 {
+	background: url('../../../../../salamcharity/init_imgs/appeals_04.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_appeals_05 {
+	background: url('../../../../../salamcharity/init_imgs/appeals_05.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_contact_01 {
+	background: url('../../../../../salamcharity/init_imgs/contact_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_contact_02 {
+	background: url('../../../../../salamcharity/init_imgs/contact_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_donate_01 {
+	background: url('../../../../../salamcharity/init_imgs/donate_01.jpg');
+	background-repeat: no-repeat;
+	background-position: 25% top;
+	background-size: cover;
+}
+
+.bg_donate_02 {
+	background: url('../../../../../salamcharity/init_imgs/donate_02.jpg');
+	background-repeat: no-repeat;
+	background-position: 80% top;
+	background-size: cover;
+}
+
+.bg_donate_03 {
+	background: url('../../../../../salamcharity/init_imgs/donate_03.jpg');
+	background-repeat: no-repeat;
+	background-position: 87% top;
+	background-size: cover;
+}
+.bg_getinvolved_00 {
+	background: url('/salamcharity/getinvolved/get-involved-header.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+.bg_getinvolved_01 {
+	background: url('../../../../../salamcharity/init_imgs/getinvolved_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_getinvolved_02 {
+	background: url('../../../../../salamcharity/init_imgs/getinvolved_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_getinvolved_03 {
+	background: url('../../../../../salamcharity/init_imgs/getinvolved_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_getinvolved_04 {
+	background: url('../../../../../salamcharity/init_imgs/getinvolved_04.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_getinvolved_05 {
+	background: url('../../../../../salamcharity/init_imgs/getinvolved_volunteer_form.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+.bg_getinvolved_06 {
+	background: url('../../../../../salamcharity/init_imgs/influencers-header.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+.bg_legal_01 {
+	background: url('../../../../../salamcharity/init_imgs/legal_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_legal_02 {
+	background: url('../../../../../salamcharity/init_imgs/legal_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_legal_03 {
+	background: url('../../../../../salamcharity/init_imgs/legal_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_news_01 {
+	background: url('../../../../../salamcharity/init_imgs/news_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_news_02 {
+	background: url('../../../../../salamcharity/init_imgs/news_02.jpg');
+	background-repeat: no-repeat;
+	background-position: 57% top;
+	background-size: cover;
+}
+
+.bg_news_03 {
+	background: url('../../../../../salamcharity/init_imgs/news_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_news_04 {
+	background: url('../../../../../salamcharity/init_imgs/news_04.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+.bg_shop_01 {
+	background: url('../../../../../salamcharity/init_imgs/shop_011.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_shop_02 {
+	background: url('../../../../../salamcharity/init_imgs/shop_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+.bg_video_01 {
+	background: url('../../../../../salamcharity/init_imgs/video_01.jpg');
+	background-repeat: no-repeat;
+	background-position: 50% top;
+	background-size: cover;
+}
+
+.bg_video_02 {
+	background: url('../../../../../salamcharity/init_imgs/video_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.bg_video_03 {
+	background: url('../../../../../salamcharity/init_imgs/video_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* INTERFACE: DONATE APPEAL IMAGES */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.don_01 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_02 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_02.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_03 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_03.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_04 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_04.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_05 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_05.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_06 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_06.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_07 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_07.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_08 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_08.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_09 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_09.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_10 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_10.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_11 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_11.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_12 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_12.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_13 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_13.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_14 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_14.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_15 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_15.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_16 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_16.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_17 {
+	background: url('../../../../../salamcharity/init_imgs/don_sample_17.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* INTERFACE: EVENT HEADERS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+.appeal_2019-03-23_indonesia_appeal {
+	background: url('../../../../../salamcharity/init_imgs/header.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+
+.challenge_2019-04-07_manchester_marathon {
+	background: url('../../../../../salamcharity/init_imgs/header.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-06-15_rough_runner {
+	background: url('../../../../../salamcharity/init_imgs/header1.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-07-20_skydive_lancaster {
+	background: url('../../../../../salamcharity/init_imgs/header2.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-07-20_skydive_nottingham {
+	background: url('../../../../../salamcharity/init_imgs/header3.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-07-21_skydive_fife {
+	background: url('../../../../../salamcharity/init_imgs/header4.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-07-21_skydive_peterborough {
+	background: url('../../../../../salamcharity/init_imgs/header5.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-08-17_rough_runner {
+	background: url('../../../../../salamcharity/init_imgs/header6.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.challenge_2019-09-07_rough_runner {
+	background: url('../../../../../salamcharity/init_imgs/header7.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.event_2018-05-26_hope1000 {
+	background: url('../../../../../salamcharity/init_imgs/header8.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.event_2019-04-06_in_good_hands {
+	background: url('../../../../../salamcharity/init_imgs/header.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.event_2019-04-19_salam_ramadan {
+	background: url('../../../../../salamcharity/init_imgs/header10.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+
+ @media only screen and (min-width : 601px)  {
+
+.zakat_bg_01 {
+	background: url('zakat_bg_01.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.zakat_bg_02 {
+	background: url('zakat_bg_02.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.zakat_bg_03 {
+	background: url('zakat_bg_03.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.zakat_bg_04 {
+	background: url('zakat_bg_04.jpg');
+
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+}

@@ -1,0 +1,5 @@
+.admin_order_popup{display:none}
+.admin_order_popup section h2 {background-color: #f9f9fa;font-size: 14px;padding: 10px;margin: 20px -10px 10px -10px;}
+.admin_order_popup .receipt {border-spacing: 0;width: calc(100% + 18px);border: 1px solid #ddd;margin: 0 -9px;}
+.admin_order_popup .receipt thead th {border-bottom: 1px solid #ddd;}
+.admin_order_popup table.receipt th, .admin_order_popup table.receipt td {border-right: 1px solid #ddd;padding: 4px 9px;}

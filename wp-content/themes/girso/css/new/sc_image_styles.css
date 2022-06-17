@@ -1,0 +1,256 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* BACKGROUNDS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.bg_darken {
+	background-color: rgba(0,0,0,.25);
+}
+
+.bg_yellow {
+	background-color: #ffcc00;
+}
+
+.bg_grey {
+	background-color: #aaaaaa;
+}
+ @media only screen and (min-width :961px) {
+
+.bg_gradient {
+	background-image: linear-gradient(to top, rgba(0,0,0,0) 0, rgba(0,0,0,1) 100%);
+	height: 200px;
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.bg_gradient {
+	background-image: linear-gradient(to top, rgba(0,0,0,0) 0, rgba(0,0,0,1) 100%);
+	height: 150px;
+}
+}
+
+.bg_general_01 {
+	background: url('2018-04-05_general_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_general_02 {
+	background: url('2018-04-05_general_02.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_general_03 {
+	background: url('2018-04-05_general_03.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_general_04 {
+	background: url('2018-04-05_general_04.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_donate_01 {
+	/*background: url('2018-03-29_donate_01.jpg');*/
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_about_01 {
+	background: url('2018-04-05_about_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_wherewework_01 {
+	background: url('2018-04-05_wherewework_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_appeals_01 {
+	background: url('2018-04-05_appeals_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_appeals_02 {
+	background: #666666;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_getinvolved_01 {
+	background: url('2018-04-05_getinvolved_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.bg_news_01 {
+	background: url('2018-04-05_news_01.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* DONATE APPEAL IMAGE */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.don_01 {
+	/*background: url('don_sample_01.jpg');*/
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_02 {
+	background: url('don_sample_02.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_03 {
+	background: url('don_sample_03.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_04 {
+	/*background: url('don_sample_04.jpg');*/
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_05 {
+	background: url('don_sample_05.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_06 {
+	background: url('don_sample_06.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_07 {
+	/*background: url('don_sample_07.jpg');*/
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_08 {
+	background: url('don_sample_08.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_09 {
+	background: url('don_sample_09.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_10 {
+	background: url('don_sample_10.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_11 {
+	background: url('don_sample_11.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_12 {
+	background: url('don_sample_12.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_13 {
+	background: url('don_sample_13.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_14 {
+	background: url('don_sample_14.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_15 {
+	background: url('don_sample_15.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_16 {
+	background: url('don_sample_16.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.don_17 {
+	background: url('don_sample_17.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* EVENT HEADERS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.event_2018-05-26_hope1000 {
+	background: url('header.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}

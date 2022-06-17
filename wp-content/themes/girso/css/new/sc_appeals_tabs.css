@@ -1,0 +1,141 @@
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* TABS CONTAINERS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.tabs_container {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0% 0px 0%;
+	width: 100%;
+}
+
+.subcat_tab_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 5% 0px 5%;
+	width: 90%;
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+.subcat_tabs_row {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0% 0px 0%;
+	width: 100%;
+	text-align: center;
+}
+
+.subcat_tab_content {
+	margin: 0px auto 0px auto;
+	padding: 60px 0% 60px 0%;
+	width: 100%;
+	max-width: 1200px;
+}
+
+.subcat_button_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0% 0px 0%;
+	max-width: 1200px;
+	width: 100%;
+	text-align: left;
+}
+ @media only screen and (min-width :1px) and (max-width :740px) {
+
+.tabs_container {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0% 0px 0%;
+}
+
+.subcat_tab_content {
+	margin: 0px 0px 0px 0px;
+	padding: 30px 0% 30px 0%;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* TABS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.etabs_col {
+	background: url('line_333333.png');
+	background-repeat: repeat-x;
+	background-position: bottom center;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.etabs_col_appeals {
+	background: url('line_333333.png');
+	background-repeat: repeat-x;
+	background-position: bottom center;
+}
+
+
+.tab_col {
+	width: 180px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.tab_col a {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	height: 45px;
+	display: block;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 17px;
+	line-height: 17px;
+	color: #333333;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius:8px 8px 0px 0px;	
+	border-left: 3px solid #333333;
+	border-right: 3px solid #333333;
+	border-top: 3px solid #333333;
+	background: linear-gradient(to bottom,  rgba(200,200,200,1) 75%, rgba(150,150,150,1) 100%);
+}
+
+
+ @media only screen and (min-width : 1px) and (max-width :740px) {
+.tab_col a {
+	padding: 5px 0px 0px 0px;
+	height: 36px;
+	font-size: 14px;
+	line-height: 14px;
+ 	border-radius:6px 6px 0px 0px;	
+}
+
+.tab_col {
+	width: 100px;
+	display: inline-block;
+	border-radius: 3px 3px 0px 0px;
+
+}
+}
+
+.tab_col a:hover {
+	color: #ffffff;
+	background-color: #333333;
+}
+
+.tab_col.active {
+	color: #333333;
+}
+
+.tab_col a.active {
+	color: #333333;
+	background-color: #eeeeee;
+	background: linear-gradient(to bottom,  rgba(255,255,255,1) 60%, rgba(238,238,238,1) 95%);
+}
+
+.tab_col_appeals a.active {
+	color: #333333;
+	background-color: #eeeeee;
+}

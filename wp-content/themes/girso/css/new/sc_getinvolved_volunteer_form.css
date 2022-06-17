@@ -1,0 +1,347 @@
+@charset "UTF-8";
+/* CSS Document */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* VOLUNTEER BUTTON SUBMIT */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+.volunteer_button_block {
+	margin: 40px 3% 0px 3%;
+	width: 94%;
+	text-align: left;
+}
+.volunteer_button {
+text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 12px 0px 13px 0px;
+	background-color: #cc0000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 18px;
+	text-decoration: none;
+	width: 100%;
+	text-transform: uppercase;
+	max-width: 200px;
+}
+.volunteer_button:hover {
+	color: #ffffff;
+	background-color: #333333;
+}
+.volunteer_button:active {
+	position: relative;
+	top: 1px;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+.volunteer_button_block {
+	margin: 40px 12px 0px 12px;
+	width: calc(100% - 24px);
+	text-align: left;
+}
+.volunteer_button {
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 12px 0px 13px 0px;
+	background-color: #cc0000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 18px;
+	text-decoration: none;
+	width: 100%;
+	text-transform: uppercase;
+	max-width: 200px;
+}
+ }
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* VOLUNTEER FORM */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+.volunteer_form_details_block {
+	margin: 0px auto 0px auto;
+	padding: 0px 0% 30px 0px;
+	width: 100%;
+	background-color:#f0f0f0;
+}
+.volunteer_form_line {
+	margin: 20px 3% 0px 3%;
+	padding: 0px 0% 0px 0px;
+	float: left;
+	text-align: left;
+	width: 44%;
+}
+.volunteer_form_line_100 {
+	margin: 35px 3% 0px 3%;
+	width: 94%;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+.volunteer_form_details_block {
+	padding: 0px 0% 20px 0px;
+	width: 100%;
+}
+.volunteer_form_line {
+	margin: 20px 12px 0px 12px;
+	width: calc(100% - 24px);
+}
+.volunteer_form_line_100 {
+	margin: 35px 12px 0px 12px;
+	width: calc(100% - 24px);
+}
+}
+.volunteer_form_label {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 0% 0px 0px;
+	float: left;
+	text-align: left;
+	width: 100%;
+	height: 22px;
+}
+.volunteer_form_entry {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 0% 0px 0px;
+	float: left;
+	text-align: left;
+	width: 100%;
+	min-height: 32px;
+}
+.volunteer_form_entry_box {
+	margin: 0px 0px 0px 0px;
+	padding: 3px 8px 4px 8px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	color: #333333;
+	border-radius: 0px;
+	border: 1px solid #999999;
+	background-color: #fefefe;
+	box-shadow: inset 0px 0px 3px #e5e5e5;
+	width: calc(100% - 18px);
+	height: 25px;
+}
+.volunteer_form_multi_entry_box {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 8px 6px 8px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	box-shadow: inset 0px 0px 5px #eeeeee;
+	color: #333333;
+	border-radius: 0px;
+	border: 1px solid #999999;
+	background-color: #fefefe;
+	box-shadow: inset 0px 0px 3px #e5e5e5;
+	width: calc(100% - 18px);
+	height: 100px;
+	max-height: 100px;
+	text-align: left;
+	resize: none;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+.volunteer_form_entry {
+	width: calc(100% - 18px);
+}
+.volunteer_form_entry_box {
+	width: 100%;
+}
+.volunteer_form_multi_entry_box {
+	width: 100%;
+}
+}
+.volunteer_form_p1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 15px;
+	color: #333333;
+	text-decoration: none;
+}
+.volunteer_form_p2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 21px;
+	color: #333333;
+	text-decoration: none;
+}
+.volunteer_form_p3 {
+	margin: 15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 22px;
+	color: #cc0000;
+	text-decoration: none;
+}
+.volunteer_form_p4 {
+	margin: 15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 13px;
+	color: #aaaaaa;
+	text-decoration: none;
+}
+.volunteer_form_pull_down {
+	margin: 0px 0px 0px 0px;
+	padding: 3px 6px 5px 6px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	box-shadow: inset -1px -1px 2px #cccccc;
+	border-radius: 0px;
+	border: 1px solid #999999;
+	background-color: #fcfcfc;
+	width: 100%;
+	color: #333333;
+	height: 34px;
+}
+.volunteer_form_pull_down_100pc {
+	width: 100%;
+}
+.volunteer_form_pull_down_150 {
+	width: 150px;
+}
+.volunteer_form_pull_down_80 {
+	width: 80px;
+}
+.volunteer_form_pull_down_60 {
+	width: 60px;
+}
+.volunteer_form_pull_down_50 {
+	width: 60px;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+.volunteer_form_p2 {
+	font-size: 15px;
+	line-height: 21px;
+}
+.volunteer_form_p3 {
+	font-size: 15px;
+	line-height: 21px;
+}
+.volunteer_form_pull_down_100pc {
+	width: calc(100% + 16px);
+}
+}
+.volunteer_block_last_stages {
+	margin: 0px auto 10px auto;
+	padding: 0px 0% 0px 0px;
+	width: 70%;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+.volunteer_block_last_stages {
+	width: 85%;
+}
+}
+.volunteer_form_checkbox_wrapper {
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 21px;
+	text-decoration: none;
+	color: #333333;
+}
+.volunteer_form_checkbox {
+	margin: 0px 6px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* CUSTOM CHECK BOXES */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+ /* Customize the label (the container) */
+.volunteer_form_chbox_container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  padding-top:2px;
+  margin-top: 12px;
+  cursor: pointer;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 21px;
+	color: #333333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.volunteer_form_chbox_container_first {
+  margin-top:5px;
+}
+/* Hide the browser's default checkbox */
+.volunteer_form_chbox_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 24px;
+  width: 24px;
+  background-color: #ffffff;
+  border:1px solid #aaaaaa;
+  margin:0;
+}
+/* On mouse-over, add a grey background color */
+.volunteer_form_chbox_container:hover input ~ .checkmark {
+  background-color: #ffcc00;
+}
+/* When the checkbox is checked, add a blue background */
+.volunteer_form_chbox_container input:checked ~ .checkmark {
+  background-color: #cc0000;
+  border:1px solid #cc0000;
+}
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+/* Show the checkmark when checked */
+.volunteer_form_chbox_container input:checked ~ .checkmark:after {
+  display: block;
+}
+/* Style the checkmark/indicator */
+.volunteer_form_chbox_container .checkmark:after {
+  left: 8px;
+  top: 4px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+} 
+
+.form_msg{color: #ff0000;font-size: 24px;margin: 15px 3% 0;}

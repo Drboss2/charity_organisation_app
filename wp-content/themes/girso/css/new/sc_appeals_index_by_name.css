@@ -1,0 +1,250 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* APPEAL INDEX - BY NAME PAGE */
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.appeal_name_zone {
+	margin: 0px 0px 0px 0%;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	width: 100%;
+	display: flex;
+	align-items: stretch;
+	flex-wrap: wrap;
+	height: 100%;
+	justify-content: flex-start;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* APPEAL INDEX - BY NAME: STORY = IMAGE + TEXT (headline, first line and date/time) */
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.appeal_name_story {
+	float: left;
+	width: calc(33.333% - 30px);
+	margin: 10px 10px 10px 10px;
+	padding: 0% 0% 12px 0%;
+	border-radius: 0px;
+	border: 5px solid #ffffff;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 3px rgba(0,0,0,.3);
+	overflow: hidden;
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: auto;
+	position: relative;
+}
+
+
+.appeal_name_story:hover {
+	border: 5px solid #ffcc00;
+	cursor:pointer;	
+
+}
+
+ @media only screen and (min-width : 961px) {
+.appeal_name_story {
+	max-width: calc(33.333% - 30px);
+
+}
+}
+
+
+
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.appeal_name_story {
+	width: calc(100% - 10px);
+	margin: 10px 0% 10px 0%;
+	padding: 0% 0% 10px 0%;
+	min-height: 100px;
+}
+
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* APPEAL INDEX - BY NAME: IMAGE FOR STORY */
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.appeal_name_story_img_wrapper {
+	margin: 0px auto 0px auto;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	position: relative;
+	font-size: 0;
+}
+
+ @media only screen and (min-width : 961px) {
+.appeal_name_story_img_wrapper {
+	max-width: 400px;
+}
+}
+
+
+.appeal_name_story_img_outer {
+	margin: 0px 0% 0px 0%;
+	padding: 0px 0% 0% 0%;
+	width: 100%;
+	height: auto;
+	width: auto;
+	
+}
+
+.appeal_name_story_img {
+	text-align: center;
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* APPEAL INDEX - BY NAME: TEXT CONTAINER & TEXT STYLES FOR STORY */
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.appeal_name_story_text_wrapper {
+	margin: 0px auto 0px auto;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+
+.appeal_name_story_leader {
+	margin: 0px auto 0px auto;
+	padding: 12px 0px 0px 0px;
+	width: 92%;
+	overflow: hidden;
+}
+
+.appeal_name_story_datestamp {
+	margin: 18px 5% 0px 5%;
+	padding: 18px 0% 12px 0%;
+	width: 90%;
+	position: absolute;
+	bottom: 0px;
+	border-top: 2px solid #ffcc00;
+	text-align: center;
+}
+
+
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.appeal_name_story_datestamp {
+	position: relative;
+}
+
+.appeal_name_story_leader {
+	margin: 0px auto 0px auto;
+	padding: 10px 0px 0px 0px;
+	width: 90%;
+	overflow: hidden;
+}
+
+}
+
+
+.appeal_name_h1, .appeal_name_h1 a:link, .appeal_name_h1 a:hover, .appeal_name_h1 a:visited {
+	margin: 3px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+}
+
+.appeal_name_date {
+	margin: 14px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 21px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+	border-top: 2px solid #ffcc00;
+}
+
+.appeal_name_where {
+	margin: 0px 0px 14px 0px;
+	padding: 0px 0px 6px 0px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 21px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+	border-bottom: 2px solid #ffcc00;
+}
+
+
+.appeal_name_p1 {
+	margin: 8px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 18px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+.appeal_name_date_p1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 12px;
+	line-height: 13px;
+	color: #333333;
+	vertical-align: bottom;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.appeal_name_clock_icon {
+	margin: 0px 6px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	vertical-align: bottom;
+	width: 13px;
+	height: 13px;
+}
+
+ @media only screen and (min-width : 1px) and (max-width :740px) {
+
+.appeal_name_h1 {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.appeal_name_date {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.appeal_name_where {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.appeal_name_p1 {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+}

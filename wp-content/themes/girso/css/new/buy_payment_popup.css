@@ -1,0 +1,21 @@
+.payment_popup{display:none; padding:15px; color:#000000; font-family:din400, "din400 Regular", Helvetica, Arial, sans-serif; font-size:17px;}
+.payment_popup .new-page-body{ padding:10px 0; width:800px;box-sizing: border-box;margin: 0 auto;}
+.payment_popup .highlight-color-border{}
+.payment_popup h3{color:#000000;}
+.payment_popup .ticket_row.head {height: auto;margin: 0;padding: 10px;font-weight: normal;text-transform: uppercase;border: 1px solid rgba(0, 0, 0, 0.1);}
+.payment_popup .ticket_row span.ticket_name {width: 64%;}
+.payment_popup .ticket_row span {padding: 0;width: 18%;box-sizing: border-box;margin-top: 5px; float:left; display:block;}
+.payment_popup .zend_form {overflow: visible;margin: 0;margin-bottom: 0px;border-left: 1px solid rgba(0, 0, 0, 0.1);border-right: 1px solid rgba(0, 0, 0, 0.1);border-bottom: 1px solid rgba(0, 0, 0, 0.1);margin-bottom: 60px;}
+.payment_popup .ticket_row {padding: 10px;clear: both;font-size: 14px;border-top: 1px solid rgba(0, 0, 0, 0.1);}
+.payment_popup .ticket_qty{width:100%; text-align:right}
+.payment_popup .ticket_row span.subtotal {text-align: right; float:right;}
+.payment_popup .booking_fee{text-align:right}
+.payment_popup .foot {background-color:rgba(0, 0, 0, 0.03);}
+.payment_popup .foot span{font-family:din500, "din500 Regular", Helvetica, Arial, sans-serif}
+.payment_popup .ticket_row.submit {border-top: 0;position: relative;padding: 0;margin: 0; text-align:center}
+.payment_popup .paywithpaypal{max-width:195px !important; padding:5px !important;}
+.payment_popup .paywith_button_cntr{width:100% !important;}
+
+.payment_popup .checkout_form_details_block{width:100%}
+.payment_popup .checkout_form_entry_box{box-sizing:unset;}
+.payment_popup .checkout_block_wrapper{margin:10px 0; padding:10px 0;background-color:rgba(0, 0, 0, 0.03); border:1px solid rgba(0, 0, 0, 0.1);}

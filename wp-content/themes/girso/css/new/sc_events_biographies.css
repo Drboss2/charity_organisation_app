@@ -1,0 +1,194 @@
+
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* BIOGRAPHY CONTAINERS */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.blog_wrapper {
+	margin: 0px 0px 0px 0%;
+	padding: 0px 0px 0px 0px;
+	float: left;
+	width: 100%;
+}
+
+
+.biog_row {
+	margin: 30px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background-color:rgba(051,051,051,.06);
+	display: table;
+	width:100%;
+}
+
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+.biog_row {
+}
+ }
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* IMAGE FOR BIOGRAPHY */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.biog_img_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width:50%;
+	display:table-cell;
+	font-size: 0;
+	overflow:hidden;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	min-height:200px;
+}
+
+.biog_img_outer {
+	height: auto;
+	width: auto;
+}
+
+.biog_img {
+	text-align: center;
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
+
+
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+.biog_img_wrapper {
+	width:100%;
+	min-height:300px;
+	display:block;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* TEXT FOR BIOGRAPHY */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.biog_txt_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 15px 20px 20px 20px;
+	width: calc(50% - 40px);
+	text-align: left;
+	display:table-cell;
+}
+
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+.biog_txt_wrapper {
+	padding: 15px 15px 20px 15px;
+	width: calc(100% - 30px);
+	display:block;
+}
+ }
+
+.biog_h1 {
+	margin: 0px 0px 14px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din500, "din500 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 22px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+}
+
+.biog_p1 {
+	margin: 14px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 20px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+}
+
+
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+.biog_h1 {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.biog_p1 {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+
+.biog_h1 {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.biog_p1 {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+}
+
+
+
+
+.biog_space_top {
+	margin-top: 20px;
+}
+
+.biog_space_top_double {
+	margin-top: 40px;
+}
+
+.biog_space_bottom {
+	margin-bottom: 20px;
+}
+
+.biog_space_bottom_double {
+	margin-bottom: 40px;
+}
+
+
+ @media only screen and (min-width : 1px) and (max-width :740px) {
+.biog_space_top {
+	margin-top: 20px;
+}
+
+.biog_space_top_double {
+	margin-top: 40px;
+}
+
+.biog_space_bottom {
+	margin-bottom: 20px;
+}
+
+.biog_space_bottom_double {
+	margin-bottom: 40px;
+}
+}

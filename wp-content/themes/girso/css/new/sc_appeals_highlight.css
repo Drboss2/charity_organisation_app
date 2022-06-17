@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* APPEAL CONTENT ITEMS (eg. donate block to go at top for Syria Emergency Appeal */
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.highlights_wrapper {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 340px;
+	z-index: -1;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.highlights_wrapper {
+	width: 290px;
+}
+}
+
+.highlights_block_yellow {
+	margin: 0px 0px 0px 0px;
+	padding: 7px 20px 9px 20px;
+	width: calc(100% - 40px);
+	background-color: rgba(255,204,0,1);
+}
+
+.highlights_block_white {
+	margin: 0px 0px 0px 0px;
+	padding: 15px 20px 17px 20px;
+	width: calc(100% - 40px);
+	background-color: #ffffff;
+}
+
+.highlights_block_red {
+	margin: 0px 0px 0px 0px;
+	padding: 15px 20px 17px 20px;
+	width: calc(100% - 40px);
+	background-color: #cc0000;
+}
+
+.highlights_block_tint {
+	margin: 0px 0px 0px 0px;
+	padding: 26px 20px 22px 20px;
+	width: calc(100% - 40px);
+	background-color: rgba(0,0,0,.6);
+}
+
+.highlights_h1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 16px;
+	color: #333333;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.highlights_h2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 32px;
+	line-height: 32px;
+	color: #cc0000;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.highlights_p1 {
+	margin: 0px 0px 18px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	color: #ffffff;
+	text-decoration: none;
+	text-align: left;
+}
+
+.highlights_p1 span {
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	color: #ffffff;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.highlights_block_yellow {
+	padding: 5px 12px 7px 12px;
+	width: calc(100% - 24px);
+}
+
+.highlights_block_white {
+	padding: 9px 12px 11px 12px;
+	width: calc(100% - 24px);
+}
+
+.highlights_block_tint {
+	padding: 20px 12px 16px 12px;
+	width: calc(100% - 24px);
+}
+
+.highlights_h1 {
+	font-size: 14px;
+	line-height: 14px;
+}
+
+.highlights_h2 {
+	font-size: 22px;
+	line-height: 22px;
+}
+
+.highlights_p1 {
+	margin: 0px 0px 8px 0px;
+	font-size: 16px;
+	line-height: 20px;
+}
+}
+
+.highlights_user_entry_wrapper {
+	float: left;
+	width: 100%;
+	height: 90px;
+	margin: 14px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.highlights_user_item {
+	float: left;
+	width: 100%;
+	height: 40px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+}
+
+.highlights_int_entry {
+	margin: 0px 0px 0px 0px;
+	padding: 2px 8px 3px 8px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	color: #ffffff;
+	border-radius: 0px;
+	border: 1px solid #ffffff;
+	background-color: rgba(0,0,0,.4);
+	width: calc(100% - 16px);
+	height: 34px;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.highlights_user_entry_wrapper {
+	height: 76px;
+}
+
+.highlights_user_item {
+	height: 35px;
+}
+
+.highlights_int_entry {
+	font-size: 16px;
+	height: 32px;
+}
+}

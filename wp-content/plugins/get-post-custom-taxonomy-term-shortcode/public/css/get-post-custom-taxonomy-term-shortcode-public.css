@@ -1,0 +1,84 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+*/
+.shortcode-main{max-width:1120px;margin:0 auto;clear: both;}
+.shortcode-main .content-block-main{display: table-cell;vertical-align: top;}
+.shortcode-main .row{border:1px solid #d0d0d0;border-radius:3px;padding:15px;color:#191919;margin-bottom:20px;}
+.shortcode-main .row .site-thumbnail{margin-right:25px;width:125px;display:table-cell;}
+.shortcode-main .row .site-thumbnail img{max-width:100%;}
+.shortcode-main .row .gt-site-title{font-size:24px;margin-bottom:10px;}
+.shortcode-main .row .gt-site-content{font-size:12px;}
+.shortcode-main .row .gt-site-title{font-size: 22px;margin-bottom:10px;}
+.shortcode-main.first-view .row .gt-site-title {display:table-cell;width: 35%;}
+.shortcode-main.first-view .row .gt-site-content {display:table-cell;}
+
+
+
+.shortcode-main.third-view.third-box .row .site-thumbnail {margin-right: 20px;display: inline-block;vertical-align: top;}
+.shortcode-main.third-view.third-box .row .content-block-main {display: inline-block; width: calc(100% - 145px);}
+.shortcode-main.third-view.third-box .row .content-block-main .gt-site-title {display: block; max-width: 100%; width: 100%; color: #000; line-height: 22px;}
+.shortcode-main.third-view.third-box .row .content-block-main .gt-site-content {margin-left: 0;}
+.shortcode-main.third-view.third-box .row .content-block-main .gt-site-content p {margin-bottom: 17px; line-height: 22px;}
+
+
+.shortcode-main.second-view.second-box .row .content-block-main .gt-site-title {display: block; max-width: 100%; width: 100%; line-height: 23px; margin-bottom: 12px;}
+.shortcode-main.second-view.second-box .row .content-block-main .gt-site-content {margin-left: 0;}
+.shortcode-main.second-view.second-box .row .content-block-main .gt-site-content p {margin-bottom: 0; line-height: 22px; display: inline-block;}
+
+
+.shortcode-main.first-view.first-box .row .content-block-main .gt-site-title {line-height: 22px; vertical-align: top;}
+.shortcode-main.first-view.first-box .row .content-block-main .gt-site-content {vertical-align: top; line-height: 22px;}
+.shortcode-main.first-view.first-box .row .content-block-main .gt-site-content p {margin-bottom: 0;}
+#wpfooter{position: relative;}
+
+.shortcode-main  .content-block-main .gt-site-title a{
+    color: #007acc;
+    text-decoration: none;
+    box-shadow: none;
+}
+.shortcode-main .paging-navigation {
+    font-family: sans-serif;
+    padding: 1em;
+    background: #fff;
+    background: hsl(0, 0%, 100%);
+}
+
+/* Remove bullets and list indentation */
+.shortcode-main .paging-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Make the list items appear horizontally */
+.shortcode-main .paging-navigation li {
+    display: inline;
+}
+
+/* Give each link and the current item some padding to make them easy to click */
+.shortcode-main a.page-numbers,
+.shortcode-main span.page-numbers {
+    padding: .3em .7em;
+    color: #333;
+    color: #2592c7;
+    border: 1px solid;
+}
+
+/* Link hover state */
+.shortcode-main a:hover.page-numbers {
+    color: #000;
+    color: hsl(0, 0%, 0%);
+}
+
+/* Current page bold and dark */
+.shortcode-main .paging-navigation .current {
+    font-weight: bold;
+    color: #000;
+    color: hsl(0, 0%, 0%);
+}
+input.sortingbtn {
+    width: 101px;
+    padding: 0px !important;
+}

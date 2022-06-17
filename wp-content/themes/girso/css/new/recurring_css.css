@@ -1,0 +1,17 @@
+.recurring_main_container{float:left; width:100%;}
+.recurring_box_cntr{float: left;width: 44%;padding: 1%;background: #f9f9f9;border: 1px solid #e6e6e6; margin:1%;}
+.recurring_hd{float: left;width: 100%;padding: 5px;font-weight: bold; background:#e6e6e6;}
+.recurring_row{float: left;width: 100%;padding: 5px 0;}
+.recurring_row_lbl{float: left;width: 15%;text-align: right;padding-right: 15px;padding-top: 6px;}
+.recurring_row_input{float:left;width: calc(85% - 15px);}
+.recurring_row_input input, .recurring_row_input textarea{width:95%;}
+.add_btn_cntr{float: left;width: calc(100% - 20px);padding: 10px;background: #f9f9f9;border: 1px solid #e6e6e6;margin-top: 15px;}
+.deletebtn{width: 15% !important;float: right !important;background: #ff0000 !important;color: #fff !important;border: none !important;}
+.validation_error{margin:0 3%; color:#FF0000; font-family:din400, "din400 Regular", Helvetica, Arial, sans-serif; font-size:15px;}
+.recurring_report_total_available_column{float:left; width:100%; background:#ffcc00; height:15px; border:#666666; border-radius:4px;}
+.recurring_report_total_sales_column{float:left; background:#cc0000; height:15px; border:#666666; border-radius:4px;}
+.width_65{width:calc(65% - 15px);}
+.width_20{width:20%;}
+.width_20 i{font-size:26px; cursor:pointer;}
+.width_20 .fa-minus-circle{color:#FF0000;}
+.width_20 .fa-plus-circle{color:#0000FF;}

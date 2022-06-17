@@ -1,0 +1,356 @@
+@charset "UTF-8";
+*, ::after, ::before
+{/*box-sizing:unset !important;*/}
+
+/* CSS Document */
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* INITIAL SET UP */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+    width: 100% !important;
+    background: rgb(34, 34, 34) !important;
+    height: 130px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+img {
+vertical-align:unset !important;
+}
+
+img:hover {
+	text-decoration: none;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: din700c, "din700c Regular", Helvetica, Arial, sans-serif !important;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	color: #aaaaaa;
+	background-color:#cccccc;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+	-webkit-text-size-adjust: none;
+
+}
+
+ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+.div_clear {
+	clear: both;
+}
+
+
+
+@font-face {
+	font-family: 'din300';
+	src: url('fonts/din300-webfont.eot');
+	src: url('fonts/din300-webfont-1.eot') format('embedded-opentype'),  url('fonts/din300-webfont.woff') format('woff'),  url('fonts/din300-webfont.ttf') format('truetype'),  url('fonts/din300-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'din400';
+	src: url('fonts/din400-webfont.eot');
+	src: url('fonts/din400-webfont-1.eot') format('embedded-opentype'),  url('fonts/din400-webfont.woff') format('woff'),  url('fonts/din400-webfont.ttf') format('truetype'),  url('fonts/din400-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'din500';
+	src: url('fonts/din500-webfont.eot');
+	src: url('fonts/din500-webfont-1.eot') format('embedded-opentype'),  url('fonts/din500-webfont.woff') format('woff'),  url('fonts/din500-webfont.ttf') format('truetype'),  url('fonts/din500-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'din700';
+	src: url('fonts/din700-webfont.eot');
+	src: url('fonts/din700-webfont-1.eot') format('embedded-opentype'),  url('fonts/din700-webfont.woff') format('woff'),  url('fonts/din700-webfont.ttf') format('truetype'),  url('fonts/din700-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'din900';
+	src: url('fonts/din900-webfont.eot');
+	src: url('fonts/din900-webfont-1.eot') format('embedded-opentype'),  url('fonts/din900-webfont.woff') format('woff'),  url('fonts/din900-webfont.ttf') format('truetype'),  url('fonts/din900-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'din700c';
+	src: url('fonts/din700c-webfont.eot');
+	src: url('fonts/din700c-webfont-1.eot') format('embedded-opentype'),  url('fonts/din700c-webfont.woff') format('woff'),  url('fonts/din700c-webfont.ttf') format('truetype'),  url('fonts/din700c-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.header_menu_bar_inner ul li:hover ul{
+	/*display: block;	*/
+}
+
+.footer_3_wrapper {
+    margin: 0px auto 0px auto;
+    padding: 10px 0% 10px 0%;
+    width: 100%;
+    background-color: #000000;
+    text-align: left;
+    display:none;
+}
+.footer_3 {
+    margin: 0px auto 0px auto;
+    padding: 0px 0% 0px 0%;
+    width: 90%;
+    min-width: 260px;
+    max-width: 1200px;
+}
+.footer_clear {
+    clear: both;
+}
+.footer_3_box {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.footer_3_p1 {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration: none;
+    line-height: 17px;
+    color: #ffffff;
+    margin: 0px 0px 0px 0px;
+}
+.footer_3_box .textwidget p {
+    color: #fff !important;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+.m2_social_bar .textwidget p{margin:0px; padding:0px;}
+
+.cart-menu {
+	
+	display: none;
+	position: absolute;
+	border: 1px;
+	box-shadow: rgba(0, 0, 0, 0.176) 0px 6px 12px; 
+	width: 375px;
+	min-width: 310px; 
+	padding: 15px;
+	margin-top: 10px; 
+	text-align: center;   
+	color: #222; 
+	padding: 20px 0px; 
+	margin-left: 60%;
+	top: 100%;
+    right: 0;
+    z-index: 1000;
+    font-size: 1rem;
+    color: #212529;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+}
+
+.cart-menu .emptyCard h5{
+	font-size: 20px !important;
+}
+
+.cart-menu .emptyCard p{
+    font-size: 16px !important;
+}
+
+.cart-btn{
+
+	    /*margin: 10px;
+	    margin-left: 5%;*/
+    	width: 100%;
+}
+
+.cart-btn .actionbtn:nth-child(2){
+    margin-left: 15px;
+}
+
+#addother {
+	background: #ffcd05;
+    padding: 5px;
+    color: #000;
+    padding-left: 7%;
+    font-size: 17px;
+    padding-right: 7%;
+
+}
+#addother:hover{
+	background: #000000;
+    padding: 5px;
+    color: #ffffff;
+    padding-left: 7%;
+    padding-right: 7%;
+
+
+}
+#checkout {
+	background: #ffcd05;
+    padding: 5px;
+    color: #000;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-size: 17px;
+
+}
+#checkout:hover{
+	background: #000000;
+    padding: 5px;
+    color: #ffffff;
+    padding-left: 7%;
+    padding-right: 7%;
+
+}
+.custom-donation-page-button {
+	border: none;
+    max-width: 260px;
+}
+.emptyCard h5 {
+	padding-top: 5px;
+}
+
+.close {
+	
+    text-align: right;
+    margin-right: 4%;
+}
+
+
+.cart-menu .donitems h5{
+font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	    text-align: left;
+    	padding-left: 12px;
+    	    font-size: 16px;
+}
+
+.cart-item {
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+        text-align: left;
+    padding-left: 13px;
+}
+
+.cartImg {
+    margin-right: 4px;
+}
+
+.cartImg img {
+    vertical-align: middle;
+    width: 15%;
+}
+
+
+.total-amount{
+    text-align: left;
+    margin-left: 16px;
+	
+}
+
+
+.donitems .cart-item .basType {
+    color: #222;
+    font-weight: normal;
+    font-size: 16px;
+    vertical-align: top;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+}
+
+.donitems .cart-item .basIcons {
+    float: right;
+}
+
+.donitems .cart-item a {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+
+.donitems .cart-item a .fa {
+    background: none;
+    color: #ed1c24;
+    display: inline-block;
+    width: 16px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+#cart_ul{
+	height: 164px;
+	overflow-y: auto;
+
+}
+
+.cart-menu .total-amount .basTotal{font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif; font-size:16px;}
+.donitems .cart-item .basPound {
+    display: inline-block;
+    padding-left: 10px;
+    color: #222;
+    font-size: 16px;
+        vertical-align: top;
+		font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif; float:right; margin-right:10px;
+}
+.camphead{float:left; width:100%; text-align:center;}
+.camphead .black{color:#000000;}
+.camphead .red{color:#cc0000;}
+.camphead .yellow:focus {color: #deb200 !important;}
+.camphead .black a{color: #000000;}
+.camphead a{
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+font-style: normal;
+font-size: 21px;
+line-height: 25px;
+text-decoration: none;
+text-align: center;
+text-transform: uppercase;
+}
+.cart-menu .header_donate_button{width:46%; font-size:15px;}

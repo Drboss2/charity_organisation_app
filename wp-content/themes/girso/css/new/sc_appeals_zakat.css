@@ -1,0 +1,520 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ZAKAT DONATE ENTRY BOXES */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+.zk_donate_h1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 16px;
+	color: #333333;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.zk_donate_p1 {
+	margin: 0px 0px 14px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 17px;
+	line-height: 25px;
+	color: #ffffff;
+	text-decoration: none;
+	text-align: left;
+}
+
+.zk_donate_p1 span {
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	color: #ffffff;
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.zk_donate_h1 {
+	font-size: 14px;
+	line-height: 14px;
+}
+
+.zk_donate_p1 {
+	margin: 0px 0px 14px 0px;
+	font-size: 16px;
+	line-height: 20px;
+}
+}
+
+.zk_donate_user_entry_wrapper {
+	float: left;
+	width: 100%;
+	height: 40px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.zk_donate_user_item {
+	float: left;
+	height: 40px;
+	margin: 0px 4px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+}
+
+.zk_donate_int_entry {
+	margin: 0px 0px 0px 0px;
+	padding: 1px 6px 3px 6px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 0px;
+	border: 1px solid #ffffff;
+	background-color: rgba(0,0,0,.4);
+	width: calc(100% - 18px);
+	height: 31px;
+	float: left;
+	max-width: 120px;
+}
+
+.zk_button {
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 7px 8px 9px 8px;
+	background-color: #cc0000;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	height: 19px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #ffffff;
+	width: calc(100% - 38px);
+	float: left;
+	width: 100px;
+}
+
+.zk_button:hover {
+	color: #ffffff;
+	background-color: #333333;
+}
+
+.zk_button:active {
+	position: relative;
+	top: 1px;
+}
+
+
+.zk_button_link {
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 7px 8px 9px 8px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	display: inline-block;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	height: 19px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #ffffff;
+	width: calc(100% - 38px);
+	float: left;
+	width: 100px;
+}
+
+.zk_button_link:hover {
+	color: #ffffff;
+	background-color: #333333;
+}
+
+.zk_button_link:active {
+	position: relative;
+	top: 1px;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ZAKAT SHELF HEADING */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.page_txt_zkt_h0 {
+	margin: 0px 0px 0px 0px;
+	font-family: din300, "din300 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 32px;
+	line-height: 36px;
+	text-decoration: none;
+	color: #eed577;
+	text-align: center;
+	letter-spacing: -4px;
+}
+
+.page_txt_zkt_h1 {
+	margin: 0px 0px 0px 0px;
+	font-family: din300, "din300 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 64px;
+	text-decoration: none;
+	color: #eed577;
+	text-align: center;
+	letter-spacing: -4px;
+}
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+.page_txt_zkt_h0 {
+	margin: 0px 0px 0px 0px;
+	font-size: 28px;
+	line-height: 30px;
+	letter-spacing: -3px;
+}
+
+.page_txt_zkt_h1 {
+	margin: 0px 0px 0px 0px;
+	font-size: 50px;
+	line-height: 56px;
+	letter-spacing: -3px;
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.page_txt_zkt_h0 {
+	margin: 0px 0px 0px 0px;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: -2px;
+}
+
+.page_txt_zkt_h1 {
+	margin: 0px 0px 0px 0px;
+	font-size: 40px;
+	line-height: 40px;
+	letter-spacing: -3px;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ZAKAT PAGE */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.salam_special_feature_content_wrapper {
+	margin: 0px auto 0px auto;
+	padding: 0px 0% 0px 0%;
+	width: 100%;
+	max-width: 1200px;
+	text-align: center;
+}
+
+.salam_special_feature_content {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	position: relative;
+	float: left;
+	width: 58%;
+	z-index: 5;
+	text-align: center;
+}
+
+.salam_special_feature_content_left {
+	float: left;
+}
+
+.salam_special_feature_content_right {
+	float: right;
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.salam_special_feature_content {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 14px 0px 14px;
+	width: calc(100% - 28px);
+	position: relative;
+	float: left;
+	z-index: 5;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* ZAKAT TEXT STYLES */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+.zk_txt_h1 {
+	margin: 0px 0px 34px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: din300, "din300 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 34px;
+	line-height: 38px;
+	color: #eed577;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -1.5px;
+}
+
+.zk_txt_h2 {
+	margin: 0px 0px 0px 0px;
+	padding: 25px 0px 25px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 22px;
+	line-height: 25px;
+	color: #eed577;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -0.5px;
+}
+
+.zk_txt_h2_first {
+	padding-top: 0px;
+}
+
+.zk_txt_p1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 25px 0px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 17px;
+	line-height: 25px;
+	color: #eed577;
+	text-decoration: none;
+	text-align: left;
+}
+
+.zk_txt_p1 span {
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+}
+
+.zk_txt_p1 a:link {
+	text-decoration: none;
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+}
+
+.zk_txt_p1 a:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.zk_txt_p1 a:hover {
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+.zk_txt_p1 a:active {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.zk_txt_list_p1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 25px 28px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 17px;
+	line-height: 25px;
+	list-style-position: outside;
+	list-style-image: url(bullet_ffcc00_17.png);
+	list-style-type: none;
+	text-align: left;
+	color: #eed577;
+}
+
+.zk_txt_list_p1 li {
+	padding: 0px 0px 17px 0px;
+	color: #eed577;
+}
+
+.zk_txt_list_p1 a:link {
+	color: #ffffff;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.zk_txt_list_p1 a:visited {
+	color: #ffffff;
+}
+
+.zk_txt_list_p1 a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+.zk_txt_list_p1:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+.zk_txt_h1 {
+	margin: 0px 0px 32px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 32px;
+	line-height: 36px;
+	letter-spacing: -1px;
+}
+
+.zk_txt_h2 {
+	padding: 20px 0px 20px 0px;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+.zk_txt_p1 {
+	padding: 0px 0px 22px 0px;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.zk_txt_list_p1 {
+	list-style-image: url(bullet_ffcc00_14.png);
+	padding: 0px 0px 22px 20px;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.zk_txt_list_p1 li {
+	padding: 0px 0px 16px 0px;
+}
+
+.zk_txt_h2_first {
+	padding-top: 0px;
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.zk_txt_h1 {
+	margin: 0px 0px 26px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 26px;
+	line-height: 30px;
+	letter-spacing: -1px;
+}
+
+.zk_txt_h2 {
+	padding: 18px 0px 18px 0px;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.zk_txt_p1 {
+	padding: 0px 0px 21px 0px;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.zk_txt_h2_first {
+	padding-top: 0px;
+}
+
+.zk_txt_list_p1 {
+	list-style-image: url(bullet_ffcc00_14.png);
+	padding: 0px 0px 20px 18px;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.zk_txt_list_p1 li {
+	padding: 0px 0px 15px 0px;
+}
+}
+
+.zk_txt_p1_no_space {
+	padding-bottom: 0px;
+}
+
+.zk_txt_list_p1_no_space {
+	padding-bottom: 0px;
+}
+
+.zk_txt_list_p1 li:last-child {
+	padding-bottom: 0px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* BOXES */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.zk_emphasis_box {
+	margin: 15px 0px 40px 0px;
+	padding: 24px 25px 30px 25px;
+	width: calc(100% - 50px);
+	background-color: rgba(238,214,119,.08);
+}
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+.zk_emphasis_box {
+	padding: 16px 20px 22px 20px;
+	width: calc(100% - 40px);
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.zk_emphasis_box {
+	padding: 14px 15px 18px 15px;
+	width: calc(100% - 30px);
+}
+}
+
+.zk_emphasis_line {
+	margin: 10px 0px 0px 0px;
+	padding: 30px 0px 0px 0px;
+	width: calc(100% - 0px);
+	border-top: 2px dotted rgba(238,214,119,.3);
+	border-bottom: 0px solid rgba(238,214,119,.3);
+}
+
+.zk_emphasis_line_0px {
+	border-top: 0px;
+}
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+.zk_emphasis_line {
+	padding: 25px 0px 0px 0px;
+	width: calc(100% - 0px);
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :600px) {
+
+.zk_emphasis_line {
+	padding: 25px 0px 0px 0px;
+	width: calc(100% - 0px);
+}
+}

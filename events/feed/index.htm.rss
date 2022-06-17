@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events &#8211; Muslim Relief Worldwide</title>
+	<atom:link href="https://www.mreliefworldwide.org/events/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mreliefworldwide.org</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 27 Jul 2021 09:58:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.2</generator>
+
+<image>
+	<url>https://www.mreliefworldwide.org/wp-content/uploads/2018/04/favicon-100x100.png</url>
+	<title>Events &#8211; Muslim Relief Worldwide</title>
+	<link>https://www.mreliefworldwide.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get Ramadan Ready</title>
+		<link>https://www.mreliefworldwide.org/events/get-ramadan-ready/</link>
+		<pubDate>Fri, 24 Jan 2020 12:07:32 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1672</guid>
+		<description><![CDATA[<p>Preparing your mind, body and soul. 5 workshops across the UK consisting of motivational talks, reminders and guidance. Sharing hints, tips, and spiritual blessings in preparation for the month of Ramadan, delivered by Asma Sheikh</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/get-ramadan-ready/">Get Ramadan Ready</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_top">
+<p class="sc_txt_h0">Saturday 14th March to Sunday 29th March 2020 (6 dates)</p>
+<p class="sc_txt_h1">Get Ramadan Ready</p>
+</p></div>
+<div style="clear:both"></div>
+<div class="eventdetail_page_right eventdetail_page_right_float_right">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="/salamcharity/events/ramadan-2020/01.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Get Ramadan Ready"><img src="/salamcharity/events/ramadan-2020/01.jpg"></a></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div></div></div>
+<div style="clear:both"></div></div>
+<div class="eventdetail_page_left eventdetail_page_left_for_lightbox">
+<p class="sc_txt_h2 sc_txt_h2_first">Prepare your mind, body and soul</p>
+<p class="sc_txt_p1">A day of motivational talks, reminders and guidance. Sharing hints, tips, and spiritual blessings in preparation for the month of Ramadan. </p>
+<p class="sc_txt_h2">Topics of Discussion</p>
+<ul class="sc_txt_list_p1">
+<li>Sunnah foods to start consuming pre-Ramadan</li>
+<li>Methods to strengthen your body before Ramadan</li>
+<li>Nutritional facts on foods to eat and avoid during Ramadan</li>
+<li>Islam and mental health</li>
+<li>Emotional detox before Ramadan</li>
+<li>Referencing our beloved sahabiyats in times of crisis</li>
+<li>Signposting to local community networks</li>
+</ul>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">A clinic for the people. Muslim Relief Worldwide has begun work on a clinic providing free health care to thousands of impoverished families in Mansurpur, Jakiganj.</p>
+<p class="sc_txt_p1">Yet the journey has only just begun. To make sure that we can provide lifesaving healthcare to those living in extreme hardship, £25,000 is needed every year to sustain the clinic.<br />
+            With an ever-growing population and limited resources, Mansurpur is in desperate need of a medical clinic. The inhabitants of the village must travel miles for the nearest health complex and often cannot afford the treatment.</p>
+<p class="sc_txt_p1">Muslim Relief Worldwide will provide free primary healthcare for everyone and save countless lives.</p>
+<div style="clear:both"></div></div>
+<p>	{%TICKETS_LIST%}<br />
+	<!-- ==================================================================================== --><br />
+	<!-- EVENT INFO TABLE END --><br />
+	<!-- ==================================================================================== --><br />
+	<!-- ========================================================================= --><br />
+	<!-- DONATION SELECTOR WIDGET --><br />
+	<!-- ========================================================================= --></p>
+<div style="clear:both"></div>
+<div class="selector_wrapper selector_line_above selector_line_below selector_space_above">
+<p class="sc_txt_h2 selector_txt_h1">Donate towards our Shifa Clinic Appeal</p>
+<div class="selector_row">
+<div class="selector_option_box">
+				<label id="close_toggle_1" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">£100</span></label>
+			</div>
+<div class="selector_option_box">
+				<label id="close_toggle_2" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">£80</span></label>
+			</div>
+<div class="selector_option_box">
+				<label id="close_toggle_3" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">£60</span></label>
+			</div>
+<div class="selector_option_box">
+				<label id="close_toggle_4" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">£40</span></label>
+			</div>
+<div class="selector_option_box">
+				<label id="close_toggle_5" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">£20</span></label>
+			</div>
+<div  class="selector_option_box selector_option_box_last">
+				<label id="other_button_1" class="selector_container"><br />
+				<input type="radio" name="radio"><br />
+				<span class="selector_checkmark" onClick="fetch(this,'Zakat');">Other</span></label>
+			</div>
+<p>			<input type="hidden" name="rd_Zakatamount" id="rd_Zakatamount" value="Other"></p>
+<div style="clear:both"></div>
+<p>			<!-- ========================================================================= --></p>
+<div class="selector_dropdown_zone">
+<div class="selector_numeric_block">
+					<input name="tx_Zakatamount" id="tx_Zakatamount" type="text" min="1" class="selector_numeric_entry_1" placeholder="£ Enter amount">
+				</div>
+<div class="sc_button_block sc_button_left"><a href="JavaScript:void(0)" onClick="AddCart('Zakat')" class="sc_button sc_button_col_red sc_button_width_max" >Donate Now</a></div>
+<div style="clear:both"></div></div>
+<p>			<!-- ========================================================================= -->
+		</div></div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/get-ramadan-ready/">Get Ramadan Ready</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Come Iftar With Me</title>
+		<link>https://www.mreliefworldwide.org/events/come-iftar-with-me-2020/</link>
+		<pubDate>Mon, 13 Jan 2020 03:06:59 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1624</guid>
+		<description><![CDATA[<p>Join hundreds of people as they gather in homes, schools, offices, universities and mosques to host Iftars and help families living below the poverty line. </p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/come-iftar-with-me-2020/">Come Iftar With Me</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_top">
+<p class="sc_txt_h0">Ramadan 2020</p>
+<p class="sc_txt_h1">Come Iftar With Me</p>
+</div>
+<div style="clear: both;"></div>
+<div class="eventdetail_page_right eventdetail_page_right_float_right">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a class="fresco" href="/salamcharity/events/iftar-2020/00.jpg" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 1"><img src="/salamcharity/events/iftar-2020/00.jpg" /></a></div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="eventdetail_page_left eventdetail_page_left_for_lightbox">
+<div class="challenges_2col_table challenges_2col_table_no_space">
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Event type</div>
+<div class="challenges_2col_r">Host your own Iftar</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Date</div>
+<div class="challenges_2col_r">Throughout Ramadan 2020</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Registration fee</div>
+<div class="challenges_2col_r">FREE</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Fundraising target</div>
+<div class="challenges_2col_r">£150</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Age suitability</div>
+<div class="challenges_2col_r">For all ages (parental supervision for young children)</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l"></div>
+<div class="challenges_2col_button">{%REGISTER_BTN%}</div>
+</div>
+</div>
+<p class="sc_txt_h2">It&#8217;s time to #comeiftarwithme</p>
+<p class="sc_txt_p1">Fancy yourself as a bit of a culinary expert? Now’s you chance to put your cooking to the test as you host an Iftar and raise vital funds to help families across the world.</p>
+<p class="sc_txt_p1">By supporting Muslim Relief Worldwide this Ramadan, you will be giving hope to families in some of the poorest areas in the world. The money you raise can help families get the food that they desperately need.</p>
+<p class="sc_txt_p1">The idea is simple. Host an Iftar for your family and friends this Ramadan and ask everyone to donate a small amount. With just 1 iftar, you can raise enough money to feed 5 families for an entire month.</p>
+<p class="sc_txt_h2">The Come Iftar With Me pack</p>
+<p class="sc_txt_p1">Each pack will contain the following:</p>
+<ul class="sc_txt_list_p1">
+<li>Muslim Relief Worldwide branded apron</li>
+<li>Cook book</li>
+<li>Pack of fruit tree seeds</li>
+<li>Bunting</li>
+<li>Fridge magnets</li>
+<li>Balloons</li>
+<li>Ramadan benefits book</li>
+<li>Dua book</li>
+<li>Nasheed CD</li>
+<li>Muslim Relief Worldwide t-shirt</li>
+<li>Muslim Relief Worldwide brochure</li>
+<li>Donation tub</li>
+</ul>
+<p class="sc_txt_h2">Handy tips and ideas</p>
+<p class="sc_txt_p1">Join hundreds of people as they gather in homes, schools, offices, universities, parks and mosques to host iftars and help feed hundreds of vulnerable families. Our lovely little pack will provide you with all the essentials to make your iftar the envy of all the land. Just follow these simple steps:</p>
+<div class="sc_2col_table sc_2col_table_space_after">
+<div class="sc_2col_row">
+<div class="sc_2col_l">Invite everyone</div>
+<div class="sc_2col_r">Family, friends, neighbours, work colleagues – invite anyone that you can think of. You can call, text, tweet, DM, or snap, whatever method you use, make sure to spread the word. #comeiftarwithme</div>
+</div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Get the look right</div>
+<div class="sc_2col_r">Our handy little Iftar pack contains all the essentials to make your Iftar look just right.</div>
+</div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Cook up a storm</div>
+<div class="sc_2col_r">Use the recipe book provided to help you cook some delicious dishes from the countries in which Salam works.</div>
+</div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Put the &#8220;fun&#8221; into fundraise</div>
+<div class="sc_2col_r">There’s lots of ways to raise money. You can charge for the dishes on iftar menu, you can sell mouth-watering cakes and sumptuous desserts, share your own JustGiving page and even get local restaurants and take-aways to donate a percentage of their earnings on a particular day.</div>
+</div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Take lots of pictures</div>
+<div class="sc_2col_r">This is your chance to show everyone your amazing Iftar so make sure to take lots and lots of pictures and post on social media to encourage others to join the cause<br />
+.</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Millions of people go hungry every night, not knowing when their next meal will come from. Salam is on the ground providing lifesaving food packs to refugees and families across the world.</p>
+<p class="sc_txt_p1">Yemen has been devastated by war and famine, there is still no end in sight for the Syria conflict and thousands of Rohingya continue to flee into the overcrowded camps. These people need our help more than ever as acute malnutrition continues to devastate lives.</p>
+<p class="sc_txt_p1">By supporting Muslim Relief Worldwide this Ramadan, you can help hundreds of families with our Feel Good Food projects in Yemen, Palestine, Syria, Bangladesh and Pakistan providing all the essentials for a balanced diet to feed a family for an entire month.</p>
+<div style="clear: both;"></div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/come-iftar-with-me-2020/">Come Iftar With Me</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>In Good Hands: An Introduction To The Art Of Henna</title>
+		<link>https://www.mreliefworldwide.org/events/in-good-hands-an-introduction-to-the-art-of-henna/</link>
+		<pubDate>Tue, 07 Jan 2020 12:06:30 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1599</guid>
+		<description><![CDATA[<p>Tap into your creative side and learn the basic principles of applying henna.  Acquire new skills as our experts in 6 different cities share their hints, tips and knowledge to get you started.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/in-good-hands-an-introduction-to-the-art-of-henna/">In Good Hands: An Introduction To The Art Of Henna</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">16th February – 5th April 2020 (7 dates)</p>
+<p class="sc_txt_h1">In Good Hands: An Introduction To The Art Of Henna</p>
+<p class="sc_txt_h2 sc_txt_h2_first">In Good Hands…</p>
+<p class="sc_txt_p1">Tap into your creative side and learn the basic principles of applying henna. Acquire new skills as our experts in 6 different cities share their hints, tips and knowledge to get you started.</p>
+<p class="sc_txt_p1">Get creative and join the fight against poverty.</p>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Every day, poverty continues to rob people of their dignity. For millions of people, their only wish is to be able to lead themselves out of poverty and provide a future for their loved ones.</p>
+<p class="sc_txt_p1">Millions of children are forced to spend hours every day collecting water from filthy rivers depriving them of the education that they so vitally need.</p>
+<p class="sc_txt_p1">Muslim Relief Worldwide is on the ground building lifesaving water wells in some of the poorest areas in the world, providing sustainable drinking sources for generations to come.</p>
+<div style="clear: both;"></div>
+</div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a class="fresco" href="/salamcharity/events/in-good-hands-2/00.jpg" data-fresco-group="example" data-fresco-caption="In Good Hands 2020 1"><img src="/salamcharity/events/in-good-hands-2/00.jpg" /></a></div>
+<div style="clear: both;"></div>
+</div>
+</div>
+</div>
+<p>{%TICKETS_LIST%}</p>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/in-good-hands-an-introduction-to-the-art-of-henna/">In Good Hands: An Introduction To The Art Of Henna</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>An Evening With Ahmad Rubani</title>
+		<link>https://www.mreliefworldwide.org/events/an-evening-with-ahmad-rubani</link>
+		<comments>https://www.mreliefworldwide.org/events/an-evening-with-ahmad-rubani#respond</comments>
+		<pubDate>Wed, 04 Dec 2019 10:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1539</guid>
+		<description><![CDATA[<p>Join us for an epic evening with the one and only Ahmad Rubani. Beautiful nasheeds, auctions, meet and greet and much more!</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/an-evening-with-ahmad-rubani">An Evening With Ahmad Rubani</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">Saturday 14th December 2019</p>
+<p class="sc_txt_h1">An Evening With Ahmad Rubani</p>
+<div class="challenges_2col_table">
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Event type</div>
+<div class="challenges_2col_r">Fundraising concert</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Date</div>
+<div class="challenges_2col_r">Saturday 14th December 2019</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Time</div>
+<div class="challenges_2col_r">Doors open 6pm</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Address</div>
+<div class="challenges_2col_r">Digbeth Hall, 117 Canal Street, Birmingham, B5 5RA</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Registration fee</div>
+<div class="challenges_2col_r">£20</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Parking</div>
+<div class="challenges_2col_r">On Site parking available</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Tickets</div>
+<div class="challenges_2col_r">£20 per person</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Age suitability</div>
+<div class="challenges_2col_r">For all ages</div>
+</div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l"></div>
+<div class="challenges_2col_button">{%REGISTER_BTN%}</div>
+</div>
+</div>
+<p class="sc_txt_h2">An Evening with Ahmad Rubani</p>
+<p class="sc_txt_p1">Ahmad Rubani has captured the imagination of the youth today with his soulful blend of classical nasheeds and vibrant melodies. Singing in Urdu and Punjabi, Ahmad has reached thousands with his unique style of nasheeds and naats mixed with an urban undertone creating a sound that is both blissful and entrancing.</p>
+<p class="sc_txt_p1">Now is your chance to meet Ahmad in person as he joins us for an intimate gathering in Birmingham. He will answer questions from the audience and share personal stories but, most importantly, he will perform original tracks which are set to become instant classics.</p>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">The already overcrowded refugee camps in Lebanon have now become stretched to bursting point. The ongoing conflict in Syria continues to force thousands of people to flee their homes and get the relative safety of the camps, but now these camps simply cannot offer the safety that they so desperately seek.</p>
+<p class="sc_txt_p1">Lebanon is facing one of the harshest winters in recent times and it is the vulnerable refugees who will suffer the most. With their few possessions, they are inadequately equipped to protect themselves and their families against the bitter cold.</p>
+<p class="sc_txt_p1">Together we can make a difference. Book your tickets now and we can help Syrian and Palestinian refugees through the bitter winter.</p>
+<div style="clear: both;"></div>
+</div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a class="fresco" href="/salamcharity/events/ahmed-rubani/00.jpg" data-fresco-group="example" data-fresco-caption="Ahmad Rubani 1"><img src="/salamcharity/events/ahmed-rubani/00.jpg" /></a></div>
+<div style="clear: both;"></div>
+</div>
+</div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/an-evening-with-ahmad-rubani">An Evening With Ahmad Rubani</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.mreliefworldwide.org/events/an-evening-with-ahmad-rubani/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Echoes Of The Beloved</title>
+		<link>https://www.mreliefworldwide.org/events/echoes-of-the-beloved/</link>
+		<pubDate>Thu, 26 Sep 2019 02:39:24 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1445</guid>
+		<description><![CDATA[<p>Join Mesut Kurtis, Ahmad Rubani, Muad and Qari Mohammed Talhah as they go on tour across the UK.  Bringing a mix of spirituality and emotion, this charity dinner tour promises to be the highlight of the year.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/echoes-of-the-beloved/">Echoes Of The Beloved</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">17th – 25th October 2019 (6 charity dinners)</p>
+<p class="sc_txt_h1">Echoes Of The Beloved
+        </p>
+<p class="sc_txt_h2 sc_txt_h2_first">6 venues across the UK and a 3 course dinner included in the price!</p>
+<p class="sc_txt_p1">Join Mesut Kurtis, Ahmad Rubani, Muad and Qari Mohammed Talhah as they go on tour across the UK.  Bringing a mix of spirituality and emotion, this tour promises to be the highlight of our year so far.</p>
+<p class="sc_txt_p1">A three course dinner is included in the £15 ticket price and it&#8217;s for a great cause!</p>
+<div class="video_yt_object" style="margin-top:40px;">
+			<iframe width="100%" height="390" src="https://www.youtube.com/embed/UCKRitg-brs?rel=0&amp;vq=default&amp;controls=0&amp;showinfo=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Madina Village is a community led initiative to provide housing, education and healthcare in one of the poorest areas of Sylhet.  At the centre of the village will be a brand-new, state of the art, mosque and Islamic Academy to help our youngsters get the best possible education.</p>
+<p class="sc_txt_p1">To ensure that the Madina villagers can lead themselves out of poverty, we will provide affordable housing to hundreds of people living on the poverty line and create sustainable working conditions to help them thrive. </p>
+<div style="clear:both"></div></div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="/salamcharity/events/echoes/00.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Echoes Of The Beloved 1"><img src="/salamcharity/events/echoes/00.jpg"></a></div>
+<div style="clear:both"></div></div></div></div>
+<p>	{%TICKETS_LIST%}
+</p></div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/echoes-of-the-beloved/">Echoes Of The Beloved</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>National Volunteer Recruitment Drive</title>
+		<link>https://www.mreliefworldwide.org/events/national-volunteer-recruitment-drive</link>
+		<pubDate>Wed, 31 Jul 2019 04:58:45 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1408</guid>
+		<description><![CDATA[<p>Join Muslim Relief Worldwide at any of the 15 venues and gain through the gift of giving. We'll show you what we do and how you can help people around the world.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/national-volunteer-recruitment-drive">National Volunteer Recruitment Drive</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_left">
+<p class="sc_txt_h0">19th – 27th August 2019 (15 dates)</p>
+<p class="sc_txt_h1">National Volunteer Recruitment Drive
+                        </p>
+<p class="sc_txt_h2 sc_txt_h2_first">Volunteering means more than simply collecting donations</p>
+<p class="sc_txt_p1">Volunteering for Muslim Relief Worldwide is a means for us to collectively extend our work and relieve hardship for thousands of people who live in poverty every day. Uniting and supporting through our time, energy, skills, networks, experiences and knowledge, kind hearted people are uniting to make a difference.</p>
+<p class="sc_txt_h2">What&#8217;s taking place</p>
+<p class="sc_txt_p1">At each venue we&#8217;ll be exploring the charity’s vision, going through post Ramadan feedback, overseas deployment opportunities, vacancies, brainstorming fundraising ideas, creating event and campaign concepts and of course meeting wonderful like-minded people.</p>
+<p class="sc_txt_p1">Join Muslim Relief Worldwide at any of the 15 venues and gain through the gift of giving.</p>
+<div style="clear:both"></div>
+</div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="/salamcharity/events/become-volunteer/00.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Become A Volunteer Tour 1"><img src="/salamcharity/events/become-volunteer/00.jpg"></a></div>
+<div style="clear:both"></div></div></div>
+</div>
+<p>{%TICKETS_LIST%}</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/national-volunteer-recruitment-drive">National Volunteer Recruitment Drive</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>My Ten Nights</title>
+		<link>https://www.mreliefworldwide.org/mytennights/</link>
+		<comments>https://www.mreliefworldwide.org/mytennights/#respond</comments>
+		<pubDate>Thu, 16 May 2019 05:26:33 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1348</guid>
+		<description><![CDATA[<p>With My Ten Nights, you can schedule your donations to spread them over the last ten days of Ramadan to make sure that you don’t miss the Night of Power.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/mytennights/">My Ten Nights</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">Ramadan 2020</p>
+<p class="sc_txt_h1">My 10 Nights</p>
+<p class="sc_txt_h2 sc_txt_h2_first">What is My 10 Nights?</p>
+<p class="sc_txt_p1"> There is a night in Ramadan that is better than a thousand months. A night of rewards far beyond anything that we could imagine. Laylatul Qadr is a blessing from Allah and a way for us to purify ourselves through sadaqah and salah.</p>
+<p class="sc_txt_p1">With My 10 Nights, you can schedule your donations to spread them over the last ten days of Ramadan to make sure that you don’t miss the Night of Power. </p>
+<p class="sc_txt_h2">It’s hassle free and easy to set up, just follow these steps: </p>
+<p class="sc_txt_p1"> 1) Launch My Ten Nights by clicking link below<br />
+            2) Choose your cause<br />
+            3) Schedule your donation </p>
+<p class="sc_txt_p1">It’s as simple as that.  You can split your donations equally or you can add more for the odd nights, the choice is yours. </p>
+<div class="sc_button_block sc_button_left sc_button_block_space_after"><a href="javascript:void(0);" id="my_ten_nights_launcher_id" class="sc_button sc_button_col_red">LAUNCH MY TEN NIGHTS</a></div>
+<div style="clear:both"></div>
+<p class="sc_txt_p1">You can now concentrate on your worship and remembrance of Allah safe in the knowledge that your donations are taken care of. </p>
+</p></div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/00.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 1"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/00.jpg"></a></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div></div>
+<div class="lightbox_thumbnail_row_wrapper">
+<div class="lightbox_thumbnail_row">
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/01.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 2"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/01t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/02.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 3"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/02t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/03.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 4"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/03t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/04.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 5"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/04t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/05.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 6"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/05t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/06.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 6"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/06t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/07.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="My Ten Nights 7"><img src="https://www.mreliefworldwide.org/salamcharity/events/my-ten-nights/07t.jpg"></a></div></div>
+<div style="clear:both"></div></div></div></div></div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/mytennights/">My Ten Nights</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.mreliefworldwide.org/mytennights/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instagram Live Appeal</title>
+		<link>https://www.mreliefworldwide.org/events/instagram-live-appeal/</link>
+		<comments>https://www.mreliefworldwide.org/events/instagram-live-appeal/#respond</comments>
+		<pubDate>Thu, 16 May 2019 04:14:59 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1341</guid>
+		<description><![CDATA[<p>Join Modest Street, Nadim Al-Maktari, Ezza Zahoor, Uzair Shafique, Chifa K and Ahmed Rubani for an evening of inspirational talks and fun filled challenges as we raise money to provide lifesaving food packs to desperate families this Ramadan.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/instagram-live-appeal/">Instagram Live Appeal</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">Ramadan 2019</p>
+<p class="sc_txt_h1">Instagram Live Appeal</p>
+<div class="challenges_2col_table">
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Event type</div>
+<div class="challenges_2col_r">Live appeal on <a href="https://instagram.com/salamcharityuk" target="_blank">instagram</a></div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Date</div>
+<div class="challenges_2col_r">Sunday 26th May 2019</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Time</div>
+<div class="challenges_2col_r">5pm until 7pm</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Fundraising target</div>
+<div class="challenges_2col_r">£10,000</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Age suitability</div>
+<div class="challenges_2col_r">For all ages</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l"></div>
+<div class="challenges_2col_button"><a href="https://www.mreliefworldwide.org/get-involved/get-involved/agent/cf/insta-live" class="sc_button sc_button_small sc_button_col_red ">Donate now</a></div></div></div>
+<p class="sc_txt_h2">Be a positive influence…</p>
+<p class="sc_txt_p1">Join Modest Street, Nadim Al-Maktari, Ezza Zahoor, Uzair Shafique, Chifa K and Ahmed Rubani for an evening of inspirational talks and fun filled challenges as we raise money to provide lifesaving food packs to desperate families this Ramadan.</p>
+<p class="sc_txt_p1">In this unique fundraiser you can communicate directly with the influencers and donate to the cause on the night.  It&#8217;ll be a 2 hour appeal with lots of information about the work Muslim Relief Worldwide is doing across the world.</p>
+<p class="sc_txt_p1">There will be Ramadan tips and motivational talks, but most importantly it will be a live appeal to raise money to provide over 330 families with food to last an entire month. </p>
+<p class="sc_txt_p1">The appeal will be taking place at <a href="https://instagram.com/salamcharityuk" target="_blank">instagram.com/salamcharityuk</a></p>
+<p class="sc_txt_h2">See who&#8217;s taking part…</p>
+<div class="people_icons_evt_wrapper  people_icons_evt_wrapper_halfspace_before people_icons_evt_wrapper_halfspace_after">
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/modest_street.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Modest Street</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/nadim.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Nadim Al-Maktari</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/ezza.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Ezza Zahoor</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/uzair.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Uzair Shafique</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/chifa.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Chifa K</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img_red"><a href="http://stellakraft.com/salamcharity/getinvolved/influencers/index.htm"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/ahmed_rubani.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1_red">Ahmad Rubani</p>
+</p></div></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Millions of people go hungry every night, not knowing when their next meal will come from. Muslim Relief Worldwide is on the ground providing lifesaving food packs to refugees and families across the world.</p>
+<p class="sc_txt_p1">Yemen has been devastated by war and famine, there is still no end in sight for the Syria conflict and thousands of Rohingya continue to flee into the overcrowded camps. These people need our help more than ever as acute malnutrition continues to devastate lives.</p>
+<p class="sc_txt_p1">By supporting Muslim Relief Worldwide this Ramadan, you can help hundreds of families with our Feel Good Food Appeal in Yemen, Palestine, Syria, Bangladesh and Pakistan providing all the essentials for a balanced diet to feed a family for an entire month. </p>
+</p></div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/00.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 1"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/00.jpg"></a></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div></div>
+<div class="lightbox_thumbnail_row_wrapper">
+<div class="lightbox_thumbnail_row">
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/01.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 2"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/01t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/02.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 3"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/02t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/03.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 4"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/03t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/04.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 5"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/04t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/05.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 6"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/05t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/instagram/06.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Instagram Live Appeal 7"><img src="https://www.mreliefworldwide.org/salamcharity/events/instagram/06t.jpg"></a></div></div>
+<div style="clear:both"></div></div></div></div></div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/instagram-live-appeal/">Instagram Live Appeal</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.mreliefworldwide.org/events/instagram-live-appeal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Come Iftar With Me</title>
+		<link>https://www.mreliefworldwide.org/events/come-iftar-with-me/</link>
+		<comments>https://www.mreliefworldwide.org/events/come-iftar-with-me/#respond</comments>
+		<pubDate>Sat, 04 May 2019 03:19:31 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=1224</guid>
+		<description><![CDATA[<p>Join hundreds of people as they gather in homes, schools, offices, universities and mosques to host Iftars and help families living below the poverty line. </p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/come-iftar-with-me/">Come Iftar With Me</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">Ramadan 2019</p>
+<p class="sc_txt_h1">Come Iftar With Me</p>
+<div class="challenges_2col_table">
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Event type</div>
+<div class="challenges_2col_r">Host your own Iftar plus live cooking with our influencers</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Date</div>
+<div class="challenges_2col_r">Throughout Ramadan 2019</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Registration fee</div>
+<div class="challenges_2col_r">FREE</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Fundraising target</div>
+<div class="challenges_2col_r">£150</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l">Age suitability</div>
+<div class="challenges_2col_r">For all ages (parental supervision for young children)</div></div>
+<div class="challenges_2col_row">
+<div class="challenges_2col_l"></div>
+<div class="challenges_2col_button">{%REGISTER_BTN%}</div></div></div>
+<p class="sc_txt_h2">It&#8217;s time to #comeiftarwithme</p>
+<p class="sc_txt_p1">Fancy yourself as a bit of a culinary expert? Now’s your chance to put your cooking skills to the test as you join the growing number of social media influencers who have already signed up to host an Iftar and raise vital funds to help families across the world.</p>
+<p class="sc_txt_h2">These influencers have signed up to host an iftar!</p>
+<div class="people_icons_evt_wrapper  people_icons_evt_wrapper_halfspace_before people_icons_evt_wrapper_halfspace_after">
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/eating_with_alfina.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Eating With Alfina</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/ezza.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Ezza Zahoor</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/fizzah.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Fizzah</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/foodies_by_fate.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Foodies By Fate</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/halal_hangouts.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Halal Hangouts</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/irem.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Irem</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/kitchen_diaries_by_zubda.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Kitchen Diaries by Zubda</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/lily_k.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Lily K</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/mariyam.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Mariyam</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/petals_kitchen.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Petal&#8217;s Kitchen</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/rahima_eatally.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Rahima Eatally</p>
+</p></div></div>
+<div class="people_icons_evt_block">
+<div class="people_icons_evt_img_wrapper">
+<div class="people_icons_evt_img_outer">
+<div class="people_icons_evt_img"><a href="https://www.mreliefworldwide.org/get-involved/our-influencers"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/shakie.jpg"></a></div></div></div>
+<div class="people_icons_evt_info">
+<p class="people_icons_evt_txt_h1">Shakie</p>
+</p></div></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div>
+<p class="sc_txt_h2">The Come Iftar With Me pack</p>
+<p class="sc_txt_p1">Each pack will contain the following:</p>
+<ul class="sc_txt_list_p1">
+<li>Apron</li>
+<li>Recipe book</li>
+<li>Bunting</li>
+<li>Campaign literature</li>
+<li>Balloons</li>
+<li>Muslim Relief Worldwide T-shirt</li>
+<li>Pack of fruit tree seeds</li>
+<li>Fridge magnet</li>
+<li>Bookmark</li>
+<li>Dua CD</li>
+<li>Dates</li>
+</ul>
+<p class="sc_txt_h2">Handy tips and ideas</p>
+<div class="sc_2col_table sc_2col_table_space_after">
+<div class="sc_2col_row">
+<div class="sc_2col_l">Invite everyone</div>
+<div class="sc_2col_r">Family, friends, neighbours, work colleagues – invite anyone that you can think of.  You can call, text, tweet, DM, or Snap, whatever method you use, make sure to spread the word. #comeiftarwithme</div></div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Get the look right</div>
+<div class="sc_2col_r">Our handy little Iftar pack contains all the essentials to make your Iftar look just right.</div></div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Shake those buckets</div>
+<div class="sc_2col_r">There’s lots of ways to raise money.  You can charge for the dishes on Iftar menu, you can sell mouth-watering cakes and sumptuous desserts.  Don’t forget to send your donations after the event.</div></div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Cook up a storm</div>
+<div class="sc_2col_r">Use the recipe book provided to help you cook some delicious dishes from around the world.</div></div>
+<div class="sc_2col_row">
+<div class="sc_2col_l">Take lots of pictures</div>
+<div class="sc_2col_r">This is your chance to show everyone your amazing Iftar so make sure to take lots and lots of pictures and post on social media to encourage others to join the cause<br />
+                    .</div></div>
+<div style="clear:both"></div></div>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Millions of people go hungry every night, not knowing when their next meal will come from.  Salam is on the ground providing lifesaving food packs to refugees and families across the world.</p>
+<p class="sc_txt_p1">Yemen has been devastated by war and famine, there is still no end in sight for the Syria conflict and thousands of Rohingya continue to flee into the overcrowded camps.  These people need our help more than ever as acute malnutrition continues to devastate lives.</p>
+<p class="sc_txt_p1">By supporting Muslim Relief Worldwide this Ramadan, you can help hundreds of families with our Feel Good Food projects in Yemen, Palestine, Syria, Bangladesh and Pakistan providing all the essentials for a balanced diet to feed a family for an entire month. </p>
+<div style="clear:both"></div></div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/01.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 1"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/01.jpg"></a></div>
+<div style="clear:both"></div></div>
+<div style="clear:both"></div></div>
+<div class="lightbox_thumbnail_row_wrapper">
+<div class="lightbox_thumbnail_row">
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/02.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 2"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/02t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/03.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 3"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/03t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/04.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 4"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/04t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/05.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 5"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/05t.jpg"></a></div></div>
+<div class="lightbox_thumbnail_wrapper">
+<div class="lightbox_thumbnail"><a href="https://www.mreliefworldwide.org/salamcharity/events/iftar/06.jpg" class="fresco" data-fresco-group="example" data-fresco-caption="Come Iftar With Me 6"><img src="https://www.mreliefworldwide.org/salamcharity/events/iftar/06t.jpg"></a></div></div>
+<div style="clear:both"></div></div></div></div></div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/come-iftar-with-me/">Come Iftar With Me</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.mreliefworldwide.org/events/come-iftar-with-me/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Salam Ramadan</title>
+		<link>https://www.mreliefworldwide.org/events/salam-ramadan/</link>
+		<comments>https://www.mreliefworldwide.org/events/salam-ramadan/#respond</comments>
+		<pubDate>Fri, 15 Mar 2019 08:36:27 +0000</pubDate>
+		<dc:creator><![CDATA[Muslim Relief Worldwide]]></dc:creator>
+				<category><![CDATA[Old Events]]></category>
+
+		<guid isPermaLink="false">http://www.mreliefworldwide.org/?post_type=events&#038;p=937</guid>
+		<description><![CDATA[<p>A day of motivational talks, reminders and guidance in preparation for Ramadan.</p>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/salam-ramadan/">Salam Ramadan</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div class="eventdetail_page_wrapper">
+<div class="eventdetail_page_left">
+<p class="sc_txt_h0">19, 20 &amp; 21st April 2019</p>
+<p class="sc_txt_h1">Salam Ramadan</p>
+<p class="sc_txt_h2 sc_txt_h2_first">Prepare your mind, body and soul</p>
+<p class="sc_txt_p1">Get ready for Ramadan with Aisha and Asma from Fit Lounge who will drop in to share their extraordinary life journey, sharing inspirational life hacks along the way.</p>
+<p class="sc_txt_p1">A day full of reminders, guidance and motivational talks will refresh your mind, body and soul in preparation for this blessed month of Ramadan.</p>
+<p class="sc_txt_p1">Don&#8217;t forget to try out Fit Lounges amazing skincare and nutrition range packed full of natural sunnah ingredients to keep you glowing this Ramadan.</p>
+<p class="sc_txt_p1">Refreshments included.</p>
+<p class="sc_txt_h2">Topics of Discussion</p>
+<ul class="sc_txt_list_p1">
+<li>Prioritising ibadah over cooking</li>
+<li>Knowing the importance of eating well</li>
+<li>How fasting boosts health and fitness</li>
+<li>Fasting is not starvation, rather a natural detox</li>
+<li>Emotional detox during Ramadan</li>
+<li>Healthy Ramadan is a happy Ramadan</li>
+</ul>
+<p class="sc_txt_h2">The cause</p>
+<p class="sc_txt_p1">Millions of people go hungry every single day, that’s why we are working tirelessly to provide lifesaving food for entire families in Yemen, Bangladesh, Syria and Kashmir.</p>
+<div style="clear: both;"></div>
+<div class="event_1col_table event_1col_table_no_space_after">
+<div class="event_1col_block">
+<div class="event_1col_column">
+<div class="event_1col_city">Bradford</div>
+<div class="event_1col_date">Friday 19th April 2019<br />
+5.00 &#8211; 9.30pm</div>
+<div class="event_1col_details">The Great Victoria Hotel<br />
+Bridge Street<br />
+Bradford BD1 1JXN</p>
+<div class="event_1col_map_button_box"><a class="event_1col_map_button" href="https://www.google.com/maps/place/The+Great+Victoria+Hotel/@53.792235,-1.752847,17z/data=!3m1!4b1!4m5!3m4!1s0x487be3c55aa1e89f:0xcfe48897e12e85e9!8m2!3d53.792235!4d-1.7506583">View Map</a></div>
+</div>
+<div class="event_1col_details">Fee: £5<br />
+Refreshments included</div>
+<div class="event_1col_details">Age suitability: 14+</div>
+<div class="event_1col_details">Parking: On-site parking<br />
+(70 spaces £3.50 all day)</div>
+<div style="clear: both;"></div>
+<div class="event_1col_ticket_button_box"><a class="event_1col_ticket_button" style="background: #333333; color: #ffffff;" href="#payment_popup_id">Ticket unavailable</a></div>
+</div>
+</div>
+<div class="event_1col_block">
+<div class="event_1col_column">
+<div class="event_1col_city">Manchester</div>
+<div class="event_1col_date">Saturday 20th April 2019<br />
+5.00 &#8211; 9.30pm</div>
+<div class="event_1col_details">Muslim Heritage Centre<br />
+College Road<br />
+Whalley Range<br />
+Manchester M16 8BP</p>
+<div class="event_1col_map_button_box"><a class="event_1col_map_button" href="https://www.google.com/maps/search/Muslim+Heritage+Centre+College+Road+Whalley+Range+Manchester+M16+8BP/@53.4489971,-2.2646514,19.21z">View Map</a></div>
+</div>
+<div class="event_1col_details">Fee: £5<br />
+Refreshments included</div>
+<div class="event_1col_details">Age suitability: 14+</div>
+<div class="event_1col_details">Parking: On-site parking<br />
+(limited spaces)</div>
+<div style="clear: both;"></div>
+<div class="event_1col_ticket_button_box"><a class="event_1col_ticket_button" style="background: #333333; color: #ffffff;" href="#payment_popup_id">Ticket unavailable</a></div>
+</div>
+</div>
+<div class="event_1col_block">
+<div class="event_1col_column">
+<div class="event_1col_city">London</div>
+<div class="event_1col_date">Sunday 21st April 2019<br />
+5.00 &#8211; 9.30pm</div>
+<div class="event_1col_details">London Muslim Centre<br />
+Whitechapel Rd<br />
+London E1 1JQ</p>
+<div class="event_1col_map_button_box"><a class="event_1col_map_button" href="https://www.google.com/maps/place/The+East+London+Mosque+%26+London+Muslim+Centre/@51.5175311,-0.0660776,19z/data=!4m5!3m4!1s0x48761ccb77652f61:0x39fd220ae3d54406!8m2!3d51.5175695!4d-0.0654875">View Map</a></div>
+</div>
+<div class="event_1col_details">Fee: £5<br />
+Refreshments included</div>
+<div class="event_1col_details">Age suitability: 14+</div>
+<div class="event_1col_details">Parking: Not available</div>
+<div style="clear: both;"></div>
+<div class="event_1col_ticket_button_box"><a class="event_1col_ticket_button" style="background: #333333; color: #ffffff;" href="#payment_popup_id">Ticket unavailable</a></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="eventdetail_page_right eventdetail_page_right_spacer_only_for_mobile">
+<div class="lightbox_wrapper">
+<div class="lightbox_photo_wrapper">
+<div class="lightbox_photo"><a class="fresco" href="/salamcharity/events/ramdan/01.jpg" data-fresco-group="example" data-fresco-caption="In Good Hands: Flyer 1"><img src="/salamcharity/events/ramdan/01.jpg" /></a></div>
+<div style="clear: both;"></div>
+</div>
+<div class="lightbox_thumbnail_row_wrapper"></div>
+</div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.mreliefworldwide.org/events/salam-ramadan/">Salam Ramadan</a> appeared first on <a rel="nofollow" href="https://www.mreliefworldwide.org">Muslim Relief Worldwide</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.mreliefworldwide.org/events/salam-ramadan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

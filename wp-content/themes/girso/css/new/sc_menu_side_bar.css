@@ -1,0 +1,229 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* SIDE MENU */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.sidemenu_container {
+	float: right;
+	position: relative;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 30%;
+	z-index: 10;
+}
+
+.sidemenu_h1 {
+	margin: 40px 0px 8px 0px;
+	padding: 5px 12px 6px 12px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 20px;
+	background: #ffcc00;
+	color: #333333;
+}
+
+.sidemenu_h1_no_space {
+	margin-top: 0px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* SIDE MENU NAVIGATION */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+#three_bar_link_side {
+	margin: 30px 0px 0px 0px;
+	padding: 7px 0px 0px 29px;
+	height: 26px;
+	float: left;
+	background-image: url('side_bar_nav_icon_000000.png');
+	background-repeat: no-repeat;
+	background-position: 9px 11px;
+	text-align: left;
+	float: left;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #333333;
+	background-color: #f0f0f0;
+	border: 1px solid #aaaaaa;
+	width: 117px;
+	cursor:pointer;
+}
+
+#three_bar_link_side.clicked {
+	background-image: url('side_bar_nav_icon_ffffff.png');
+	color: #ffffff;
+	background-color: #333333;
+	border: 1px solid #333333;
+}
+ @media only screen and (min-width : 601px) and (max-width :960px) {
+
+#three_bar_link_side {
+	margin: 50px 0px 0px 0px;
+}
+}
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+#three_bar_link_side {
+	margin: 35px 0px 0px 0px;
+}
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* LARGE SCREEN */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+#navlist {
+	clear: left;
+	margin: 0px 0% 0px 0%;
+	text-decoration: none;
+	overflow: hidden;
+	list-style: none;
+	width: 100;
+	text-align: left;
+}
+
+#navlist li {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: block;
+	width: 100%;
+	background-image: url('bullet_navlist_aaaaaa_13.png');
+	background-repeat: no-repeat;
+	background-position: 12px 8px;
+}
+
+#navlist li a {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 10px 5px 26px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 19px;
+	text-decoration: none;
+	color: #333333;
+	display: block;
+}
+
+#navlist li:hover {
+	background-image: url('bullet_navlist_deb200_13.png');
+}
+
+#navlist a:link, #navlist a:visited {
+	color: #333333;
+}
+
+#navlist a:hover {
+	color: #deb200;
+}
+
+#active a:link, #active a:visited, #active a:hover {
+	color: #333333;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+/* MOBILE */
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+ @media only screen and (min-width : 1px) and (max-width :960px) {
+
+.sidemenu_container {
+	float: left;
+	position: relative;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0% 0px 0%;
+	width: 100%;
+	z-index: 20;
+}
+
+#menu_side {
+	padding: 0px 14px 0px 14px;
+	width: calc(100% - 28px);
+	display: block;
+	text-align: center;
+}
+
+.sidemenu_h1 {
+	margin: 0px 0px 0px 0px;
+	padding: 7px 0% 8px 12px;
+	font-family: din700, "din700 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 18px;
+	color: #333333;
+	background-color: #f0f0f0;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+#navlist {
+	margin: 30px 14px 30px 14px;
+	padding: 0px 0% 0px 0%;
+	width: calc(100% - 28px);
+	clear: left;
+	text-align: left;
+	background-color: #ffffff;
+	border-top: 1px solid #777777;
+	border-bottom: 1px solid #777777;
+	position: relative;
+	top: -1px;
+}
+
+
+#navlist li {
+	display: block;
+	width: 100%;
+	background-image: url('bullet_navlist_aaaaaa_11.png');
+	background-repeat: no-repeat;
+	background-position: 13px 11px;
+}
+
+#navlist li a {
+	padding: 7px 0% 8px 24px;
+	font-family: din400, "din400 Regular", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 18px;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+#navlist li:hover {
+	background-image: url('bullet_navlist_deb200_11.png');
+}
+
+#navlist li:last-child a {
+	border: 0px;
+}
+
+#navlist.js {
+	display: none;
+}
+}
+
+
+ 
+
+
+ @media screen and (min-width: 961px) {
+
+#menu_side {
+	display: none;
+}
+}
