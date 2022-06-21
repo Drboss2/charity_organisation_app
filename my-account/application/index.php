@@ -1,6 +1,8 @@
 ﻿<?php
    if(isset($_GET['error'])){
-     $error =  '<p class="alert alert-danger">Your Tracking Number is invalid</p>';
+     $error =  '<p class="alert alert-danger">Your Reference Number is invalid</p>';
+   }elseif(isset($_GET['ban'])){
+     $error =  '<p class="alert alert-danger">An Error has occured with your Reference number please contact administrator.</p>';
    }
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">

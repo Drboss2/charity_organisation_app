@@ -399,10 +399,31 @@ class User{
          if($stmt->rowCount() > 0){
              $result = $stmt->fetch(PDO::FETCH_OBJ);
 
-             return $result;
+             if($result->status == 'ban'){
+                 return 'ban';
+             }else{
+                return $result;
+             }
+
          }else{
              return 'not found';
          }
+    }
+
+    public function banClient(){
+       $status = $this->singleClient('tracking',$this->id)->status;
+
+       if($status == 'active'){
+            $stmt = $this->con->prepare('update tracking set status ="ban" where id =:id');
+            $stmt->bindParam(':id',$this->id);
+            $stmt->execute(); 
+        }else{
+            $stmt = $this->con->prepare('update tracking set status ="active" where id =:id');
+            $stmt->bindParam(':id',$this->id);
+            $stmt->execute(); 
+        }
+
+        return true;
     }
        
     public function __destruct(){

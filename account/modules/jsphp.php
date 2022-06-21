@@ -25,7 +25,7 @@
         $post = filter_var_array($_POST,FILTER_SANITIZE_STRING);
         $user->id  = $post['id'];
         echo $user->deleteClient('shipping_history',$user->id);
-       exit();
+        exit();
     }
 
     if(isset($_POST['edit'])){ // get single shipping history data
@@ -43,5 +43,12 @@
        echo $user->editShippingDetails($user->id);
 
        exit();
+    }
+
+    if(isset($_POST['ban'])){  // ban clients
+        $post = filter_var_array($_POST,FILTER_SANITIZE_STRING);
+        $user->id  = $post['id'];
+
+        echo $user->banClient(); 
     }
 ?>

@@ -29,7 +29,7 @@
                             <td><?php echo $val->details?></td>
                             <td>
                                 <a class="edit" href="javascipt:void(0)" edid="<?php echo $val->id?>"  data-toggle="modal" data-target="#myModal"><i class="far fa-eye"></i></a> ||
-                                <a id="pat" class="delete" href="javascipt:void(0)" did="<?php echo $val->id?>" style="color:red"><i class="fas fa-trash"></i></a>
+                                <a id="pat" class="delete" href="javascipt:void(0)" did="<?php echo $val->id?>" style="color:red"><i class="fas fa-trash"></i></a>||
                             </td>
                             <td><?php echo $val->date ?></td>
                         </tr>
@@ -332,6 +332,7 @@
             }
         })
     })
+   
  });
  </script>
 <script>

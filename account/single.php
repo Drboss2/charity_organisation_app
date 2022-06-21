@@ -189,9 +189,8 @@
                             </div>
                             <div class="col-lg-4">
                                 <label>Full Name</label>
-                                <input type="text" class="form-control" id="full_name" name="full_name" required value='
-                                <?php echo $d->full_name?>'>
-                                <input type="hidden" name="csfr" value="<?php echo rand(10000000000000,90000000009)?>" >
+                                <input type="text" class="form-control" id="full_name" name="full_name" value='<?php echo $d->full_name?>' required>
+                                <!-- <input type="hidden" name="csfr" value="<?php echo rand(10000000000000,90000000009)?>" > -->
                             </div>
                             <div class="form-group col-lg-4">
                                 <label>Email</label>
